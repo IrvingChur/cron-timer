@@ -37,9 +37,6 @@ class QaUserLevelCalculate implements ApplicationInterface
 
     public function execute(string $param)
     {
-        // 获取更多内存
-        ini_set('memory_limit','1024M');
-
         $isFirstRun     = json_decode($param, true)['first_run'] ?? false;
         $strNowDateTime = Carbon::now()->addHour()->toDateTimeString();
         $strOldDateTime = Carbon::now()->subDay(2)->toDateTimeString();

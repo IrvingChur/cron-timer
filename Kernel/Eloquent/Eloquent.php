@@ -9,14 +9,8 @@ use Library\Common\ConfigureLibrary;
 
 class Eloquent
 {
-    public function initialize(?bool $isChildren = false)
+    public function initialize()
     {
-        // 子进程与父进程不能同用连接
-        if ($isChildren == true) {
-            Manager::connection()->reconnect();
-            return;
-        }
-
         $arrConfigure = ConfigureLibrary::getConfigure('Configure\SystemConfigure')['databaseConfigure'];
         $isOpenDebug  = ConfigureLibrary::getConfigure('Configure\SystemConfigure')['sqlDebug'];
         $objCapsule   = new Manager();

@@ -18,10 +18,9 @@ class CommonBillDao
      * @param float $serviceFee 服务费
      * @param float $actualFee 实际收入
      * @param string $orderGoodsId 订单ID
-     * @param string $channel 频道
      * @return void
      */
-    public function createBill(int $userId, string $objectName, int $objectId, float $totalFee, float $serviceFee, float $actualFee, string $orderGoodsId, string $channel)
+    public function createBill(int $userId, string $objectName, int $objectId, float $totalFee, float $serviceFee, float $actualFee, string $orderGoodsId)
     {
         $objBillModel = new CommonBillModel();
         $objBillModel->user_id     = $userId;
@@ -31,7 +30,6 @@ class CommonBillDao
         $objBillModel->service_fee = $serviceFee;
         $objBillModel->actual_fee  = $actualFee;
         $objBillModel->dingdan_id  = $orderGoodsId;
-        $objBillModel->channel     = $channel;
         $objBillModel->save();
     }
 
@@ -48,7 +46,7 @@ class CommonBillDao
         return CommonBillModel::where('user_id', $userId)
             ->whereIn('object_name', $objectNameList)
             ->whereBetween('created', [$startTime, $endTime])
-            ->sum('actual_fee');
+            ->sum('total_fee');
     }
 
     /**

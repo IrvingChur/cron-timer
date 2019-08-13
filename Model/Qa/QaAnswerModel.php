@@ -8,9 +8,6 @@ use Model\BaseModel;
 
 class QaAnswerModel extends BaseModel
 {
-    const ANSWER_STATUS_NORMAL = 0;
-    const ANSWER_STATUS_BAN    = 1;
-
     protected $table = 'qa_answer';
     protected $guarded = [];
 

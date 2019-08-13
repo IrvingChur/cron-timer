@@ -28,13 +28,12 @@ class ProcessKernel
             $strEnv = ConfigureLibrary::getConfigure('Configure\SystemConfigure')['env'];
             \swoole_set_process_name(sprintf($strEnv . self::CRON_TASK_PROCESS_NAME_FORMAT, $task->id));
             $this->checkMasterProcess($objWorker);
-            (new Eloquent())->initialize(true);
             try {
                 call_user_func([(new ProcessExecute()), 'handler'], $task);
             } catch (\Throwable $throwable) {
                 (new ExceptionHandler())->throwableHandler($throwable);
             }
-        });
+        }, false, SOCK_STREAM, true);
 
         $objProcess->start();
     }
@@ -42,9 +41,9 @@ class ProcessKernel
     public function detection()
     {
         DB::transaction(function () {
-            $objKernelDao = new KernelDao();
-            $arrRunningTasks = $objKernelDao->getRunningTasks();
-            $strEnv = ConfigureLibrary::getConfigure('Configure\SystemConfigure')['env'];
+            $objKernelDao       = new KernelDao();
+            $arrRunningTasks    = $objKernelDao->getRunningTasks();
+            $strEnv             = ConfigureLibrary::getConfigure('Configure\SystemConfigure')['env'];
 
             foreach ($arrRunningTasks as $item) {
                 $strProcessName = sprintf($strEnv . self::CRON_TASK_PROCESS_NAME_FORMAT, $item->id);

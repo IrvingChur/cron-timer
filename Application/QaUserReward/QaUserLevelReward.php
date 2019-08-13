@@ -7,8 +7,6 @@ use Application\ApplicationInterface;
 use Carbon\Carbon;
 use CustomTrait\Common\SingleInstanceTrait;
 use Dao\CommonDao\CommonBillDao;
-use Dao\CommonDao\CommonTemporaryBillDao;
-use Dao\QaDao\QaRewardRolesDao;
 use Dao\QaDao\QaUserLevelDao;
 use Illuminate\Database\Capsule\Manager;
 use Illuminate\Database\Eloquent\Collection;
@@ -84,17 +82,8 @@ class QaUserLevelReward implements ApplicationInterface
         $floReward = $floBeyondReward + $floDefaultReward;
         $floReward = ($floReward < $rule->upper_limit) ?: $rule->upper_limit;
 
-        // 是否已经开通打赏
-        $isOpenReward = self::getInstance(QaRewardRolesDao::class)->isOpenReward($item->user_id);
-        if ($isOpenReward) {
-            self::getInstance(CommonBillDao::class)->createBill(
-                $item->user_id, CommonBillModel::OBJECT_NAME_QA_LEVEL_REWARD, 0, $floReward, 0.00, $floReward, 0, 'qa'
-            );
-        } else {
-            // 未开通打赏临时记录
-            self::getInstance(CommonTemporaryBillDao::class)->createTemporaryBill(
-                $item->user_id, CommonBillModel::OBJECT_NAME_QA_LEVEL_REWARD, 0, $floReward, 0.00, $floReward, 'qa', '', 0
-            );
-        }
+        self::getInstance(CommonBillDao::class)->createBill(
+            $item->user_id, CommonBillModel::OBJECT_NAME_QA_LEVEL_REWARD, 0, $floReward, 0.00, $floReward, 0
+        );
     }
 }

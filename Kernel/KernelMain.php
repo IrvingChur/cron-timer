@@ -102,7 +102,6 @@ class KernelMain
             DB::connection()->reconnect();
             $objProcessKernel->detection();
             $objTasks = $objKernelDao->getTasks();
-            DB::connection()->disconnect();
 
             foreach ($objTasks as $item) {
                 $objProcessKernel->run($item);

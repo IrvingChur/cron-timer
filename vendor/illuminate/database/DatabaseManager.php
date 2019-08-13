@@ -81,13 +81,24 @@ class DatabaseManager implements ConnectionResolverInterface
         // If we haven't created this connection, we'll create it based on the config
         // provided in the application. Once we've created the connections we will
         // set the "fetch mode" for PDO which determines the query return types.
-        if (! isset($this->connections[$name])) {
-            $this->connections[$name] = $this->configure(
+        $strCoroutineLabel = $this->getScopeLabel();
+        if (! isset($this->connections[$strCoroutineLabel][$name])) {
+            $this->connections[$strCoroutineLabel][$name] = $this->configure(
                 $this->makeConnection($database), $type
             );
         }
 
-        return $this->connections[$name];
+        return $this->connections[$strCoroutineLabel][$name];
+    }
+
+
+    protected function getScopeLabel()
+    {
+        $intCoroutineId = \Swoole\Coroutine::getCid();
+        $strCoroutineId = ($intCoroutineId >= 0) ? (string) $intCoroutineId : "master";
+        $intProcessId   = posix_getpid();
+        $strLabel       = "process-" . $intProcessId . "_" . "coroutine-" . $strCoroutineId;
+        return (string) $strLabel;
     }
 
     /**
@@ -223,8 +234,9 @@ class DatabaseManager implements ConnectionResolverInterface
      */
     public function disconnect($name = null)
     {
+        $strCoroutineLabel = $this->getScopeLabel();
         if (isset($this->connections[$name = $name ?: $this->getDefaultConnection()])) {
-            $this->connections[$name]->disconnect();
+            $this->connections[$strCoroutineLabel][$name]->disconnect();
         }
     }
 
@@ -238,7 +250,8 @@ class DatabaseManager implements ConnectionResolverInterface
     {
         $this->disconnect($name = $name ?: $this->getDefaultConnection());
 
-        if (! isset($this->connections[$name])) {
+        $strCoroutineLabel = $this->getScopeLabel();
+        if (! isset($this->connections[$strCoroutineLabel][$name])) {
             return $this->connection($name);
         }
 
@@ -255,7 +268,8 @@ class DatabaseManager implements ConnectionResolverInterface
     {
         $fresh = $this->makeConnection($name);
 
-        return $this->connections[$name]
+        $strCoroutineLabel = $this->getScopeLabel();
+        return $this->connections[$strCoroutineLabel][$name]
                                 ->setPdo($fresh->getPdo())
                                 ->setReadPdo($fresh->getReadPdo());
     }

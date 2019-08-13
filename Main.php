@@ -14,8 +14,4 @@ class Main {
 
 }
 
-try {
-    (new Main())->run($argv);
-} catch (\Throwable $throwable) {
-    (new \Kernel\Exception\ExceptionHandler())->throwableHandler($throwable);
-}
+(new Main())->run($argv);

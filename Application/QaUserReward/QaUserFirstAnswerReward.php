@@ -6,7 +6,6 @@ namespace Application\QaUserReward;
 use Application\ApplicationInterface;
 use CustomTrait\Common\SingleInstanceTrait;
 use Dao\CommonDao\CommonBillDao;
-use Dao\CommonDao\CommonTemporaryBillDao;
 use Dao\QaDao\QaAnswerDao;
 use Dao\QaDao\QaRewardRolesDao;
 use Illuminate\Database\Capsule\Manager;
@@ -71,23 +70,14 @@ class QaUserFirstAnswerReward implements ApplicationInterface
         // 事务执行
         Manager::transaction(function () use($item, $startTime, $endTime) {
             // 获取本月星标首答数量
-            $intFirstAnswer   = self::getInstance(QaAnswerDao::class)->getFirstAnswerNumber($item->user_id, $startTime, $endTime, true);
+            $intFirstAnswer = self::getInstance(QaAnswerDao::class)->getFirstAnswerNumber($item->user_id, $startTime, $endTime, true);
             // 计算用户获取奖励
-            $floReward        = (float) $intFirstAnswer * self::FIRST_ANSWER_REWARD;
+            $floReward      = (float) $intFirstAnswer * self::FIRST_ANSWER_REWARD;
             // 发送奖励
             if ($floReward > 0) {
-                // 用户已开通打赏
-                $isOpenReward = self::getInstance(QaRewardRolesDao::class)->isOpenReward($item->user_id);
-                if ($isOpenReward) {
-                    self::getInstance(CommonBillDao::class)->createBill(
-                        $item->user_id, CommonBillModel::OBJECT_NAME_QA_FIRST_ANSWER_REWARD, 0, $floReward, 0.00, $floReward, 0, 'qa'
-                    );
-                } else {
-                    // 未开通打赏临时记录
-                    self::getInstance(CommonTemporaryBillDao::class)->createTemporaryBill(
-                        $item->user_id, CommonBillModel::OBJECT_NAME_QA_FIRST_ANSWER_REWARD, 0, $floReward, 0.00, $floReward, 'qa', '', 0
-                    );
-                }
+                self::getInstance(CommonBillDao::class)->createBill(
+                    $item->user_id, CommonBillModel::OBJECT_NAME_QA_FIRST_ANSWER_REWARD, 0, $floReward, 0.00, $floReward, 0
+                );
             }
         });
     }

@@ -25,6 +25,11 @@ class ProcessExecute
             call_user_func([$objTaskInstance, 'execute'], $task->execute_param ?: '');
         }
 
+        // 协程阻塞
+        while (count(\Swoole\Coroutine::listCoroutines()) > 1) {
+            \Swoole\Coroutine::sleep(1);
+        }
+
         $objKernelDao->complete($task);
     }
 }

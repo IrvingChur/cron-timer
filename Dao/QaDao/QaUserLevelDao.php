@@ -35,4 +35,17 @@ class QaUserLevelDao
             ->whereIn('user_id', $arrUserList)
             ->get();
     }
+
+    /**
+     * @describe 获取区间用户列表
+     * @param string $startTime 开始时间
+     * @param string $endTime 结束时间
+     * @return Collection [QaUserLevelModel]
+     */
+    public function getSectionSpecialUserList(string $startTime, string $endTime)
+    {
+        $arrUserList = (new QaAnswerDao())->getSpecialAnswerUserList(['user_id'], $startTime, $endTime);
+        var_dump($arrUserList);
+        exit;
+    }
 }

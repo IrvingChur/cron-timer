@@ -56,8 +56,7 @@ class KernelDao
             ->where('status', KernelModel::STATUS_WAIT)
             ->where(function ($query) {
                 $query->where('next_start_time', '<=', Carbon::now()->toDateTimeString())
-                    ->orWhereNull('first_start_time')
-                    ->orWhereNull('next_start_time');
+                    ->orWhereNull('first_start_time');
             })
             ->get();
     }

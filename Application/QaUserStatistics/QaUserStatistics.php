@@ -7,7 +7,6 @@ use Application\ApplicationInterface;
 use Carbon\Carbon;
 use CustomTrait\Common\SingleInstanceTrait;
 use Dao\CommonDao\CommonBillDao;
-use Dao\CommonDao\CommonTemporaryBillDao;
 use Dao\KernelDao\KernelDao;
 use Dao\QaDao\QaAnswerDao;
 use Dao\QaDao\QaUserStatisticsDao;
@@ -24,9 +23,6 @@ class QaUserStatistics implements ApplicationInterface
 
     public function execute(string $param)
     {
-        // 获取更多内存
-        ini_set('memory_limit','1024M');
-
         $isFirstRun     = json_decode($param, true)['first_run'] ?? false;
         $strNowDateTime = Carbon::now()->addHour()->toDateTimeString();
         $strOldDateTime = Carbon::now()->subDay(2)->toDateTimeString();
@@ -100,8 +96,6 @@ class QaUserStatistics implements ApplicationInterface
             $floRewardCount = self::getInstance(CommonBillDao::class)->rewardCount($item->user_id, $strOriginTime, $strNowTime, [CommonBillModel::OBJECT_NAME_QA_REWARD, CommonBillModel::OBJECT_NAME_QA_POST_REWARD, CommonBillModel::OBJECT_NAME_QA_LEVEL_REWARD, CommonBillModel::OBJECT_NAME_QA_FIRST_ANSWER_REWARD]);
             // 星标首答数
             $intFirstAnswer = self::getInstance(QaAnswerDao::class)->getFirstAnswerNumber($item->user_id, $strOriginTime, $strNowTime, true);
-            // 临时收益统计
-            $floTempReward  = self::getInstance(CommonTemporaryBillDao::class)->rewardCount($item->user_id, $strOriginTime, $strNowTime, [CommonBillModel::OBJECT_NAME_QA_REWARD, CommonBillModel::OBJECT_NAME_QA_POST_REWARD, CommonBillModel::OBJECT_NAME_QA_LEVEL_REWARD, CommonBillModel::OBJECT_NAME_QA_FIRST_ANSWER_REWARD]);
 
             $objQaUserInfo = ($objQaUserInfo instanceof QaUserStatisticsModel) ? $objQaUserInfo : new QaUserStatisticsModel();
             $objQaUserInfo->user_id              = $item->user_id;
@@ -109,7 +103,6 @@ class QaUserStatistics implements ApplicationInterface
             $objQaUserInfo->first_special_answer = (int) $objQaUserInfo->first_special_answer + $intFirstAnswer;
             $objQaUserInfo->words_number         = (int) $objQaUserInfo->words_number + $intWordsNumber;
             $objQaUserInfo->earnings             = (int) (((float) $floRewardCount * 100) + (int) $objQaUserInfo->earnings);
-            $objQaUserInfo->earnings_temporary   = (int) (((float) $floTempReward * 100) + (int) $objQaUserInfo->earnings_temporary);
             $objQaUserInfo->updated              = $strNowTime;
             $objQaUserInfo->save();
         });
