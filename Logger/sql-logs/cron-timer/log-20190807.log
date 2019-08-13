@@ -1,0 +1,22 @@
+2019-08-07 16:02:10 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:12:02 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:12:38 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:13:30 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:13:37 select * from `qa_answer` where `created` between '2019-07-08 16:13:30' and '2019-08-07 16:13:30' group by `user_id`
+2019-08-07 16:29:29 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:29:30 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 16:29:30' and '2019-08-07 16:29:30' group by `user_id`
+2019-08-07 16:30:57 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:30:57 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 16:30:57' and '2019-08-07 16:30:57' group by `user_id`
+2019-08-07 16:57:23 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:57:24 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 16:57:24' and '2019-08-07 16:57:24' group by `user_id`
+2019-08-07 16:57:53 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:57:53 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 16:57:53' and '2019-08-07 16:57:53' group by `user_id`
+2019-08-07 16:59:02 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 16:59:02 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 16:59:02' and '2019-08-07 16:59:02' group by `user_id`
+2019-08-07 17:01:20 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 17:01:20 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 17:01:20' and '2019-08-07 17:01:20' group by `user_id`
+2019-08-07 17:03:47 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 17:03:47 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 17:03:47' and '2019-08-07 17:03:47' group by `user_id`
+2019-08-07 17:06:28 select count(1) as praiseNumber, object_user_id from `common_zan` where `object_name` = 'answer' and `object_user_id` > '0' group by `object_user_id` having `praiseNumber` > '50' order by `praiseNumber` desc
+2019-08-07 17:06:28 select `id`, `user_id`, `jin` from `qa_answer` where `created` between '2019-07-08 17:06:28' and '2019-08-07 17:06:28' group by `user_id`
+2019-08-07 17:06:28 select * from `auth_user` where `id` in ('1000558179')

@@ -1,0 +1,1000 @@
+2019-08-01 11:06:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:04' or `first_start_time` is null)
+2019-08-01 11:06:05 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:06:04', `next_start_time` = '2019-08-01 11:07:00' where `id` = '20'
+2019-08-01 11:06:05 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:06:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:06' or `first_start_time` is null)
+2019-08-01 11:06:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:07' or `first_start_time` is null)
+2019-08-01 11:06:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:09' or `first_start_time` is null)
+2019-08-01 11:06:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:10' or `first_start_time` is null)
+2019-08-01 11:06:11 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:11' or `first_start_time` is null)
+2019-08-01 11:06:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:12' or `first_start_time` is null)
+2019-08-01 11:06:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:13' or `first_start_time` is null)
+2019-08-01 11:06:15 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:15' or `first_start_time` is null)
+2019-08-01 11:06:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:16' or `first_start_time` is null)
+2019-08-01 11:06:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:17' or `first_start_time` is null)
+2019-08-01 11:06:18 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:18' or `first_start_time` is null)
+2019-08-01 11:06:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:19' or `first_start_time` is null)
+2019-08-01 11:06:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:21' or `first_start_time` is null)
+2019-08-01 11:06:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:22' or `first_start_time` is null)
+2019-08-01 11:06:23 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:23' or `first_start_time` is null)
+2019-08-01 11:06:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:24' or `first_start_time` is null)
+2019-08-01 11:06:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:26' or `first_start_time` is null)
+2019-08-01 11:06:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:27' or `first_start_time` is null)
+2019-08-01 11:06:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:28' or `first_start_time` is null)
+2019-08-01 11:06:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:29' or `first_start_time` is null)
+2019-08-01 11:06:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:30' or `first_start_time` is null)
+2019-08-01 11:06:32 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:32' or `first_start_time` is null)
+2019-08-01 11:06:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:33' or `first_start_time` is null)
+2019-08-01 11:06:34 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:34' or `first_start_time` is null)
+2019-08-01 11:06:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:35' or `first_start_time` is null)
+2019-08-01 11:06:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:37' or `first_start_time` is null)
+2019-08-01 11:06:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:38' or `first_start_time` is null)
+2019-08-01 11:06:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:39' or `first_start_time` is null)
+2019-08-01 11:06:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:41' or `first_start_time` is null)
+2019-08-01 11:06:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:42' or `first_start_time` is null)
+2019-08-01 11:06:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:43' or `first_start_time` is null)
+2019-08-01 11:06:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:44' or `first_start_time` is null)
+2019-08-01 11:06:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:46' or `first_start_time` is null)
+2019-08-01 11:06:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:47' or `first_start_time` is null)
+2019-08-01 11:06:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:48' or `first_start_time` is null)
+2019-08-01 11:06:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:49' or `first_start_time` is null)
+2019-08-01 11:06:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:51' or `first_start_time` is null)
+2019-08-01 11:06:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:52' or `first_start_time` is null)
+2019-08-01 11:06:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:53' or `first_start_time` is null)
+2019-08-01 11:06:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:54' or `first_start_time` is null)
+2019-08-01 11:06:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:55' or `first_start_time` is null)
+2019-08-01 11:06:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:57' or `first_start_time` is null)
+2019-08-01 11:06:58 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:58' or `first_start_time` is null)
+2019-08-01 11:06:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:06:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:06:59' or `first_start_time` is null)
+2019-08-01 11:07:00 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:00' or `first_start_time` is null)
+2019-08-01 11:07:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:07:01', `next_start_time` = '2019-08-01 11:08:00' where `id` = '20'
+2019-08-01 11:07:01 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:07:02 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:02' or `first_start_time` is null)
+2019-08-01 11:07:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:03' or `first_start_time` is null)
+2019-08-01 11:07:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:04' or `first_start_time` is null)
+2019-08-01 11:07:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:06' or `first_start_time` is null)
+2019-08-01 11:07:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:07' or `first_start_time` is null)
+2019-08-01 11:07:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:08' or `first_start_time` is null)
+2019-08-01 11:07:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:09' or `first_start_time` is null)
+2019-08-01 11:07:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:10' or `first_start_time` is null)
+2019-08-01 11:07:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:12' or `first_start_time` is null)
+2019-08-01 11:07:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:13' or `first_start_time` is null)
+2019-08-01 11:07:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:14' or `first_start_time` is null)
+2019-08-01 11:07:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:17' or `first_start_time` is null)
+2019-08-01 11:07:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:19' or `first_start_time` is null)
+2019-08-01 11:07:20 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:20' or `first_start_time` is null)
+2019-08-01 11:07:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:21' or `first_start_time` is null)
+2019-08-01 11:07:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:22' or `first_start_time` is null)
+2019-08-01 11:07:23 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:24' or `first_start_time` is null)
+2019-08-01 11:07:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:25' or `first_start_time` is null)
+2019-08-01 11:07:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:26' or `first_start_time` is null)
+2019-08-01 11:07:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:27' or `first_start_time` is null)
+2019-08-01 11:07:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:28' or `first_start_time` is null)
+2019-08-01 11:07:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:30' or `first_start_time` is null)
+2019-08-01 11:07:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:31' or `first_start_time` is null)
+2019-08-01 11:07:32 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:32' or `first_start_time` is null)
+2019-08-01 11:07:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:33' or `first_start_time` is null)
+2019-08-01 11:07:34 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:34' or `first_start_time` is null)
+2019-08-01 11:07:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:36' or `first_start_time` is null)
+2019-08-01 11:07:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:37' or `first_start_time` is null)
+2019-08-01 11:07:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:07:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:07:38' or `first_start_time` is null)
+2019-08-01 11:08:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:08:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:08:57' or `first_start_time` is null)
+2019-08-01 11:08:57 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:08:57', `next_start_time` = '2019-08-01 11:09:00' where `id` = '20'
+2019-08-01 11:08:57 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:08:58 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:08:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:08:58' or `first_start_time` is null)
+2019-08-01 11:09:00 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:00' or `first_start_time` is null)
+2019-08-01 11:09:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:09:00', `next_start_time` = '2019-08-01 11:10:00' where `id` = '20'
+2019-08-01 11:09:00 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:09:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:04' or `first_start_time` is null)
+2019-08-01 11:09:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:06' or `first_start_time` is null)
+2019-08-01 11:09:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:07' or `first_start_time` is null)
+2019-08-01 11:09:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:08' or `first_start_time` is null)
+2019-08-01 11:09:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:09' or `first_start_time` is null)
+2019-08-01 11:09:11 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:11' or `first_start_time` is null)
+2019-08-01 11:09:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:12' or `first_start_time` is null)
+2019-08-01 11:09:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:13' or `first_start_time` is null)
+2019-08-01 11:09:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:15' or `first_start_time` is null)
+2019-08-01 11:09:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:16' or `first_start_time` is null)
+2019-08-01 11:09:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:17' or `first_start_time` is null)
+2019-08-01 11:09:18 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:18' or `first_start_time` is null)
+2019-08-01 11:09:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:19' or `first_start_time` is null)
+2019-08-01 11:09:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:21' or `first_start_time` is null)
+2019-08-01 11:09:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:22' or `first_start_time` is null)
+2019-08-01 11:09:23 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:23' or `first_start_time` is null)
+2019-08-01 11:09:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:24' or `first_start_time` is null)
+2019-08-01 11:09:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:26' or `first_start_time` is null)
+2019-08-01 11:09:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:27' or `first_start_time` is null)
+2019-08-01 11:09:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:28' or `first_start_time` is null)
+2019-08-01 11:09:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:29' or `first_start_time` is null)
+2019-08-01 11:09:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:44' or `first_start_time` is null)
+2019-08-01 11:09:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:45' or `first_start_time` is null)
+2019-08-01 11:09:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:46' or `first_start_time` is null)
+2019-08-01 11:09:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:47' or `first_start_time` is null)
+2019-08-01 11:09:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:49' or `first_start_time` is null)
+2019-08-01 11:09:50 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:50' or `first_start_time` is null)
+2019-08-01 11:09:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:51' or `first_start_time` is null)
+2019-08-01 11:09:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:52' or `first_start_time` is null)
+2019-08-01 11:09:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:54' or `first_start_time` is null)
+2019-08-01 11:09:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:55' or `first_start_time` is null)
+2019-08-01 11:09:56 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:56' or `first_start_time` is null)
+2019-08-01 11:09:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:57' or `first_start_time` is null)
+2019-08-01 11:09:58 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:09:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:09:59' or `first_start_time` is null)
+2019-08-01 11:10:00 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:00' or `first_start_time` is null)
+2019-08-01 11:10:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:10:00', `next_start_time` = '2019-08-01 11:11:00' where `id` = '20'
+2019-08-01 11:10:00 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:10:01 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:01' or `first_start_time` is null)
+2019-08-01 11:10:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:03' or `first_start_time` is null)
+2019-08-01 11:10:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:04' or `first_start_time` is null)
+2019-08-01 11:10:05 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:05' or `first_start_time` is null)
+2019-08-01 11:10:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:06' or `first_start_time` is null)
+2019-08-01 11:10:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:08' or `first_start_time` is null)
+2019-08-01 11:10:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:09' or `first_start_time` is null)
+2019-08-01 11:10:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:10' or `first_start_time` is null)
+2019-08-01 11:10:11 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:11' or `first_start_time` is null)
+2019-08-01 11:10:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:13' or `first_start_time` is null)
+2019-08-01 11:10:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:14' or `first_start_time` is null)
+2019-08-01 11:10:15 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:15' or `first_start_time` is null)
+2019-08-01 11:10:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:16' or `first_start_time` is null)
+2019-08-01 11:10:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:17' or `first_start_time` is null)
+2019-08-01 11:10:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:19' or `first_start_time` is null)
+2019-08-01 11:10:20 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:20' or `first_start_time` is null)
+2019-08-01 11:10:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:21' or `first_start_time` is null)
+2019-08-01 11:10:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:22' or `first_start_time` is null)
+2019-08-01 11:10:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:24' or `first_start_time` is null)
+2019-08-01 11:10:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:25' or `first_start_time` is null)
+2019-08-01 11:10:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:26' or `first_start_time` is null)
+2019-08-01 11:10:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:27' or `first_start_time` is null)
+2019-08-01 11:10:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:29' or `first_start_time` is null)
+2019-08-01 11:10:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:30' or `first_start_time` is null)
+2019-08-01 11:10:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:31' or `first_start_time` is null)
+2019-08-01 11:10:32 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:32' or `first_start_time` is null)
+2019-08-01 11:10:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:34' or `first_start_time` is null)
+2019-08-01 11:10:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:35' or `first_start_time` is null)
+2019-08-01 11:10:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:36' or `first_start_time` is null)
+2019-08-01 11:10:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:37' or `first_start_time` is null)
+2019-08-01 11:10:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:39' or `first_start_time` is null)
+2019-08-01 11:10:40 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:40' or `first_start_time` is null)
+2019-08-01 11:10:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:41' or `first_start_time` is null)
+2019-08-01 11:10:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:42' or `first_start_time` is null)
+2019-08-01 11:10:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:43' or `first_start_time` is null)
+2019-08-01 11:10:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:45' or `first_start_time` is null)
+2019-08-01 11:10:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:46' or `first_start_time` is null)
+2019-08-01 11:10:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:47' or `first_start_time` is null)
+2019-08-01 11:10:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:48' or `first_start_time` is null)
+2019-08-01 11:10:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:49' or `first_start_time` is null)
+2019-08-01 11:10:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:51' or `first_start_time` is null)
+2019-08-01 11:10:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:52' or `first_start_time` is null)
+2019-08-01 11:10:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:53' or `first_start_time` is null)
+2019-08-01 11:10:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:54' or `first_start_time` is null)
+2019-08-01 11:10:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:56' or `first_start_time` is null)
+2019-08-01 11:10:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:10:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:10:57' or `first_start_time` is null)
+2019-08-01 11:11:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:11:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:11:04' or `first_start_time` is null)
+2019-08-01 11:11:04 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:11:04', `next_start_time` = '2019-08-01 11:12:00' where `id` = '20'
+2019-08-01 11:11:05 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:51:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:17' or `first_start_time` is null)
+2019-08-01 11:51:18 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:51:17', `next_start_time` = '2019-08-01 11:52:00' where `id` = '20'
+2019-08-01 11:51:18 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:51:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:35' or `first_start_time` is null)
+2019-08-01 11:51:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:36' or `first_start_time` is null)
+2019-08-01 11:51:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:37' or `first_start_time` is null)
+2019-08-01 11:51:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:39' or `first_start_time` is null)
+2019-08-01 11:51:40 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:40' or `first_start_time` is null)
+2019-08-01 11:51:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:41' or `first_start_time` is null)
+2019-08-01 11:51:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:42' or `first_start_time` is null)
+2019-08-01 11:51:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:44' or `first_start_time` is null)
+2019-08-01 11:51:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:45' or `first_start_time` is null)
+2019-08-01 11:51:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:46' or `first_start_time` is null)
+2019-08-01 11:51:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:48' or `first_start_time` is null)
+2019-08-01 11:51:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:49' or `first_start_time` is null)
+2019-08-01 11:51:50 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:50' or `first_start_time` is null)
+2019-08-01 11:51:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:52' or `first_start_time` is null)
+2019-08-01 11:51:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:53' or `first_start_time` is null)
+2019-08-01 11:51:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:54' or `first_start_time` is null)
+2019-08-01 11:51:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:55' or `first_start_time` is null)
+2019-08-01 11:51:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:57' or `first_start_time` is null)
+2019-08-01 11:51:58 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:58' or `first_start_time` is null)
+2019-08-01 11:51:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:51:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:51:59' or `first_start_time` is null)
+2019-08-01 11:52:00 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:52:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:52:00' or `first_start_time` is null)
+2019-08-01 11:52:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 11:52:00', `next_start_time` = '2019-08-01 11:53:00' where `id` = '20'
+2019-08-01 11:52:01 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 11:52:02 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:52:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:52:02' or `first_start_time` is null)
+2019-08-01 11:52:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:52:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:52:03' or `first_start_time` is null)
+2019-08-01 11:52:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 11:52:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 11:52:04' or `first_start_time` is null)
+2019-08-01 12:05:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:05:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:05:25' or `first_start_time` is null)
+2019-08-01 12:05:26 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:05:25', `next_start_time` = '2019-08-01 12:06:00' where `id` = '20'
+2019-08-01 12:05:26 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 12:05:27 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:05:25', `next_start_time` = '2019-08-02 12:00:00' where `id` = '19'
+2019-08-01 12:05:27 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:05:25', `next_start_time` = '2019-08-02 12:00:00' where `id` = '23'
+2019-08-01 12:05:28 select `user_id` from `qa_answer` where `created` between '2019-07-30 12:05:27' and '2019-08-01 13:05:27' group by `user_id`
+2019-08-01 12:05:28 select `user_id` from `qa_answer` group by `user_id`
+2019-08-01 12:05:30 select `user_id` from `qa_answer` where exists (select * from `qa_answer_attribute_tag` where `qa_answer`.`id` = `qa_answer_attribute_tag`.`answer_id` and `created` between '2019-07-30 12:05:27' and '2019-08-01 13:05:27')
+2019-08-01 12:05:30 select `user_id` from `common_zhangdan` where `object_name` in ('qa.level.first.answer.reward', 'qa.level.reward', 'qa.post.reward', 'qa.reward') and `created` between '2019-07-30 12:05:27' and '2019-08-01 13:05:27'
+2019-08-01 12:05:30 select `user_id` from `qa_answer` where `user_id` in ('5656', '1') group by `user_id`
+2019-08-01 12:05:30 select * from `qa_user_statistics` where `user_id` = '1' limit 1
+2019-08-01 12:05:30 select sum(char_length(content)) as aggregate from `qa_answer` where `user_id` = '1' and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:30'
+2019-08-01 12:05:30 select sum(`total_fee`) as aggregate from `common_zhangdan` where `user_id` = '1' and `object_name` in ('qa.reward', 'qa.post.reward', 'qa.level.reward', 'qa.level.first.answer.reward') and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:30'
+2019-08-01 12:05:30 select count(*) as aggregate from `qa_answer` where `user_id` = '1' and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:30' and exists (select * from `qa_answer_attribute_tag` where `qa_answer`.`id` = `qa_answer_attribute_tag`.`answer_id` and `answerer_operation_tag_id` in ('10', '11')) and not exists (select 1 from `qa_answer` as `child_qa_answer` where child_qa_answer.question_id = qa_answer.question_id and child_qa_answer.created < qa_answer.created)
+2019-08-01 12:05:31 update `qa_user_statistics` set `updated` = '2019-08-01 12:05:30' where `id` = '1'
+2019-08-01 12:05:31 select * from `qa_user_statistics` where `user_id` = '5656' limit 1
+2019-08-01 12:05:31 select sum(char_length(content)) as aggregate from `qa_answer` where `user_id` = '5656' and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:31'
+2019-08-01 12:05:31 select sum(`total_fee`) as aggregate from `common_zhangdan` where `user_id` = '5656' and `object_name` in ('qa.reward', 'qa.post.reward', 'qa.level.reward', 'qa.level.first.answer.reward') and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:31'
+2019-08-01 12:05:31 select count(*) as aggregate from `qa_answer` where `user_id` = '5656' and `created` between '2019-08-01 10:56:51' and '2019-08-01 12:05:31' and exists (select * from `qa_answer_attribute_tag` where `qa_answer`.`id` = `qa_answer_attribute_tag`.`answer_id` and `answerer_operation_tag_id` in ('10', '11')) and not exists (select 1 from `qa_answer` as `child_qa_answer` where child_qa_answer.question_id = qa_answer.question_id and child_qa_answer.created < qa_answer.created)
+2019-08-01 12:05:31 update `qa_user_statistics` set `updated` = '2019-08-01 12:05:31' where `id` = '104'
+2019-08-01 12:05:31 update `cron_tasks` set `status` = '0' where `id` = '23'
+2019-08-01 12:33:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:09 update `cron_tasks` set `status` = '0' where `id` = '19'
+2019-08-01 12:33:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:23' or `first_start_time` is null)
+2019-08-01 12:33:33 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:33:33', `next_start_time` = '2019-08-01 12:34:00' where `id` = '20'
+2019-08-01 12:33:34 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 12:33:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:36' or `first_start_time` is null)
+2019-08-01 12:33:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:37' or `first_start_time` is null)
+2019-08-01 12:33:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:38' or `first_start_time` is null)
+2019-08-01 12:33:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:39' or `first_start_time` is null)
+2019-08-01 12:33:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:41' or `first_start_time` is null)
+2019-08-01 12:33:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:42' or `first_start_time` is null)
+2019-08-01 12:33:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:43' or `first_start_time` is null)
+2019-08-01 12:33:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:45' or `first_start_time` is null)
+2019-08-01 12:33:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:46' or `first_start_time` is null)
+2019-08-01 12:33:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:47' or `first_start_time` is null)
+2019-08-01 12:33:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:48' or `first_start_time` is null)
+2019-08-01 12:33:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:51' or `first_start_time` is null)
+2019-08-01 12:33:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:52' or `first_start_time` is null)
+2019-08-01 12:33:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:53' or `first_start_time` is null)
+2019-08-01 12:33:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:54' or `first_start_time` is null)
+2019-08-01 12:33:56 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:56' or `first_start_time` is null)
+2019-08-01 12:33:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:57' or `first_start_time` is null)
+2019-08-01 12:33:58 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:33:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:33:58' or `first_start_time` is null)
+2019-08-01 12:34:00 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:00' or `first_start_time` is null)
+2019-08-01 12:34:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:34:00', `next_start_time` = '2019-08-01 12:35:00' where `id` = '20'
+2019-08-01 12:34:01 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 12:34:02 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:02' or `first_start_time` is null)
+2019-08-01 12:34:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:03' or `first_start_time` is null)
+2019-08-01 12:34:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:04' or `first_start_time` is null)
+2019-08-01 12:34:05 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:06' or `first_start_time` is null)
+2019-08-01 12:34:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:07' or `first_start_time` is null)
+2019-08-01 12:34:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:08' or `first_start_time` is null)
+2019-08-01 12:34:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:09' or `first_start_time` is null)
+2019-08-01 12:34:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:11' or `first_start_time` is null)
+2019-08-01 12:34:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:34:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:34:31' or `first_start_time` is null)
+2019-08-01 12:35:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:35:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:35:16' or `first_start_time` is null)
+2019-08-01 12:35:22 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 12:35:22', `next_start_time` = '2019-08-01 12:36:00' where `id` = '20'
+2019-08-01 12:35:23 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 12:35:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:35:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:35:24' or `first_start_time` is null)
+2019-08-01 12:35:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:35:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:35:26' or `first_start_time` is null)
+2019-08-01 12:43:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:43:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:43:10' or `first_start_time` is null)
+2019-08-01 12:53:40 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:40' or `first_start_time` is null)
+2019-08-01 12:53:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:41' or `first_start_time` is null)
+2019-08-01 12:53:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:42' or `first_start_time` is null)
+2019-08-01 12:53:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:43' or `first_start_time` is null)
+2019-08-01 12:53:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:45' or `first_start_time` is null)
+2019-08-01 12:53:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:46' or `first_start_time` is null)
+2019-08-01 12:53:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:47' or `first_start_time` is null)
+2019-08-01 12:53:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:48' or `first_start_time` is null)
+2019-08-01 12:53:50 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:50' or `first_start_time` is null)
+2019-08-01 12:53:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:51' or `first_start_time` is null)
+2019-08-01 12:53:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:53' or `first_start_time` is null)
+2019-08-01 12:53:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:54' or `first_start_time` is null)
+2019-08-01 12:53:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:55' or `first_start_time` is null)
+2019-08-01 12:53:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:53:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:53:57' or `first_start_time` is null)
+2019-08-01 12:54:15 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:54:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:54:15' or `first_start_time` is null)
+2019-08-01 12:54:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:54:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:54:16' or `first_start_time` is null)
+2019-08-01 12:54:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:54:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:54:17' or `first_start_time` is null)
+2019-08-01 12:54:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 12:54:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 12:54:19' or `first_start_time` is null)
+2019-08-01 13:02:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:02:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:02:54' or `first_start_time` is null)
+2019-08-01 13:02:54 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:02:54', `next_start_time` = '2019-08-01 13:03:00' where `id` = '1'
+2019-08-01 13:02:54 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:02:54', `next_start_time` = '2019-08-01 13:03:00' where `id` = '20'
+2019-08-01 13:02:54 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:02:54 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-07-08 19:48:00'
+2019-08-01 13:02:55 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:02:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:02:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:02:55' or `first_start_time` is null)
+2019-08-01 13:02:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:02:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:02:57' or `first_start_time` is null)
+2019-08-01 13:05:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:04' or `first_start_time` is null)
+2019-08-01 13:05:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:06' or `first_start_time` is null)
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:05', `next_start_time` = '2019-08-01 13:06:00' where `id` = '1'
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:06', `next_start_time` = '2019-08-01 13:06:00' where `id` = '20'
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:06', `next_start_time` = '2019-08-01 13:06:00' where `id` = '1'
+2019-08-01 13:05:06 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:02:54'
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:05:06 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:05:06'
+2019-08-01 13:05:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:05', `next_start_time` = '2019-08-01 13:06:00' where `id` = '20'
+2019-08-01 13:05:07 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:05:07 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:05:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:08' or `first_start_time` is null)
+2019-08-01 13:05:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:09' or `first_start_time` is null)
+2019-08-01 13:05:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:10' or `first_start_time` is null)
+2019-08-01 13:05:11 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:11' or `first_start_time` is null)
+2019-08-01 13:05:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:12' or `first_start_time` is null)
+2019-08-01 13:05:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:14' or `first_start_time` is null)
+2019-08-01 13:05:15 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:15' or `first_start_time` is null)
+2019-08-01 13:05:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:16' or `first_start_time` is null)
+2019-08-01 13:05:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:17' or `first_start_time` is null)
+2019-08-01 13:05:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:19' or `first_start_time` is null)
+2019-08-01 13:05:20 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:20' or `first_start_time` is null)
+2019-08-01 13:05:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:21' or `first_start_time` is null)
+2019-08-01 13:05:23 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:23' or `first_start_time` is null)
+2019-08-01 13:05:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:24' or `first_start_time` is null)
+2019-08-01 13:05:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:25' or `first_start_time` is null)
+2019-08-01 13:05:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:27' or `first_start_time` is null)
+2019-08-01 13:05:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:28' or `first_start_time` is null)
+2019-08-01 13:05:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:29' or `first_start_time` is null)
+2019-08-01 13:05:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:31' or `first_start_time` is null)
+2019-08-01 13:05:32 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:32' or `first_start_time` is null)
+2019-08-01 13:05:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:33' or `first_start_time` is null)
+2019-08-01 13:05:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:35' or `first_start_time` is null)
+2019-08-01 13:05:35 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:35', `next_start_time` = '2019-08-01 13:06:00' where `id` = '20'
+2019-08-01 13:05:35 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:05:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:36' or `first_start_time` is null)
+2019-08-01 13:05:37 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:05:36', `next_start_time` = '2019-08-01 13:06:00' where `id` = '1'
+2019-08-01 13:05:37 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:05:06'
+2019-08-01 13:05:37 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:05:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:38' or `first_start_time` is null)
+2019-08-01 13:05:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:05:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:05:39' or `first_start_time` is null)
+2019-08-01 13:13:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:13:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:13:10' or `first_start_time` is null)
+2019-08-01 13:13:11 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:13:10', `next_start_time` = '2019-08-01 13:14:00' where `id` = '20'
+2019-08-01 13:13:11 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:13:10', `next_start_time` = '2019-08-01 13:14:00' where `id` = '1'
+2019-08-01 13:13:11 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:13:11 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:05:37'
+2019-08-01 13:13:11 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:13:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:13:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:13:12' or `first_start_time` is null)
+2019-08-01 13:13:13 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:13:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:13:13' or `first_start_time` is null)
+2019-08-01 13:13:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:34:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:34:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:34:28' or `first_start_time` is null)
+2019-08-01 13:34:29 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:34:28', `next_start_time` = '2019-08-01 13:35:00' where `id` = '1'
+2019-08-01 13:34:29 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:34:28', `next_start_time` = '2019-08-01 13:35:00' where `id` = '20'
+2019-08-01 13:34:29 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:34:29 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:13:11'
+2019-08-01 13:34:29 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:34:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:34:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:34:30' or `first_start_time` is null)
+2019-08-01 13:34:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:34:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:34:31' or `first_start_time` is null)
+2019-08-01 13:37:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:06' or `first_start_time` is null)
+2019-08-01 13:37:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:37:06', `next_start_time` = '2019-08-01 13:38:00' where `id` = '1'
+2019-08-01 13:37:06 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:37:06', `next_start_time` = '2019-08-01 13:38:00' where `id` = '20'
+2019-08-01 13:37:06 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:37:07 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:34:29'
+2019-08-01 13:37:07 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:37:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:08' or `first_start_time` is null)
+2019-08-01 13:37:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:27' or `first_start_time` is null)
+2019-08-01 13:37:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:29' or `first_start_time` is null)
+2019-08-01 13:37:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:30' or `first_start_time` is null)
+2019-08-01 13:37:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:31' or `first_start_time` is null)
+2019-08-01 13:37:32 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:32' or `first_start_time` is null)
+2019-08-01 13:37:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:37:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:37:33' or `first_start_time` is null)
+2019-08-01 13:37:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:38:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:38:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:38:28' or `first_start_time` is null)
+2019-08-01 13:38:28 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:38:28', `next_start_time` = '2019-08-01 13:39:00' where `id` = '20'
+2019-08-01 13:38:28 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:38:28', `next_start_time` = '2019-08-01 13:39:00' where `id` = '1'
+2019-08-01 13:38:28 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:38:28 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:37:07'
+2019-08-01 13:38:28 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:45:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:45:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:45:48' or `first_start_time` is null)
+2019-08-01 13:45:48 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:45:48', `next_start_time` = '2019-08-01 13:46:00' where `id` = '20'
+2019-08-01 13:45:48 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:45:48', `next_start_time` = '2019-08-01 13:46:00' where `id` = '1'
+2019-08-01 13:45:49 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:45:49 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:38:28'
+2019-08-01 13:45:49 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:48:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:48:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:48:28' or `first_start_time` is null)
+2019-08-01 13:48:29 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:48:28', `next_start_time` = '2019-08-01 13:49:00' where `id` = '1'
+2019-08-01 13:48:29 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:48:28', `next_start_time` = '2019-08-01 13:49:00' where `id` = '20'
+2019-08-01 13:48:29 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:48:29 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:45:49'
+2019-08-01 13:48:29 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:51:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:06' or `first_start_time` is null)
+2019-08-01 13:51:07 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:51:06', `next_start_time` = '2019-08-01 13:52:00' where `id` = '20'
+2019-08-01 13:51:07 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:51:06', `next_start_time` = '2019-08-01 13:52:00' where `id` = '1'
+2019-08-01 13:51:08 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:48:29'
+2019-08-01 13:51:08 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:51:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:08 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:51:09 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:51:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:09' or `first_start_time` is null)
+2019-08-01 13:51:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:12' or `first_start_time` is null)
+2019-08-01 13:51:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:14' or `first_start_time` is null)
+2019-08-01 13:51:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:16' or `first_start_time` is null)
+2019-08-01 13:51:18 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:18' or `first_start_time` is null)
+2019-08-01 13:51:20 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:20' or `first_start_time` is null)
+2019-08-01 13:51:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:22' or `first_start_time` is null)
+2019-08-01 13:51:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:49' or `first_start_time` is null)
+2019-08-01 13:51:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:51' or `first_start_time` is null)
+2019-08-01 13:51:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:53' or `first_start_time` is null)
+2019-08-01 13:51:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:55' or `first_start_time` is null)
+2019-08-01 13:51:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:57' or `first_start_time` is null)
+2019-08-01 13:51:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:51:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:51:59' or `first_start_time` is null)
+2019-08-01 13:52:01 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:01' or `first_start_time` is null)
+2019-08-01 13:52:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:52:01', `next_start_time` = '2019-08-01 13:53:00' where `id` = '1'
+2019-08-01 13:52:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:52:01', `next_start_time` = '2019-08-01 13:53:00' where `id` = '20'
+2019-08-01 13:52:02 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:51:08'
+2019-08-01 13:52:02 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:52:02 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:52:02 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:02' or `first_start_time` is null)
+2019-08-01 13:52:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:04' or `first_start_time` is null)
+2019-08-01 13:52:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:06' or `first_start_time` is null)
+2019-08-01 13:52:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:08' or `first_start_time` is null)
+2019-08-01 13:52:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:12' or `first_start_time` is null)
+2019-08-01 13:52:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:14' or `first_start_time` is null)
+2019-08-01 13:52:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:16' or `first_start_time` is null)
+2019-08-01 13:52:18 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:18' or `first_start_time` is null)
+2019-08-01 13:52:20 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:20' or `first_start_time` is null)
+2019-08-01 13:52:22 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:22' or `first_start_time` is null)
+2019-08-01 13:52:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:24' or `first_start_time` is null)
+2019-08-01 13:52:25 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:25' or `first_start_time` is null)
+2019-08-01 13:52:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:27' or `first_start_time` is null)
+2019-08-01 13:52:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:29' or `first_start_time` is null)
+2019-08-01 13:52:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:31' or `first_start_time` is null)
+2019-08-01 13:52:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:33' or `first_start_time` is null)
+2019-08-01 13:52:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:35' or `first_start_time` is null)
+2019-08-01 13:52:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:37' or `first_start_time` is null)
+2019-08-01 13:52:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:39' or `first_start_time` is null)
+2019-08-01 13:52:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:41' or `first_start_time` is null)
+2019-08-01 13:52:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:43' or `first_start_time` is null)
+2019-08-01 13:52:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:44' or `first_start_time` is null)
+2019-08-01 13:52:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:46' or `first_start_time` is null)
+2019-08-01 13:52:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:48' or `first_start_time` is null)
+2019-08-01 13:52:50 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:50' or `first_start_time` is null)
+2019-08-01 13:52:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:52' or `first_start_time` is null)
+2019-08-01 13:52:54 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:54' or `first_start_time` is null)
+2019-08-01 13:52:56 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:56' or `first_start_time` is null)
+2019-08-01 13:52:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:52:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:58' or `first_start_time` is null)
+2019-08-01 13:52:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:52:59' or `first_start_time` is null)
+2019-08-01 13:53:01 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:01' or `first_start_time` is null)
+2019-08-01 13:53:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:53:02', `next_start_time` = '2019-08-01 13:54:00' where `id` = '20'
+2019-08-01 13:53:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:53:02', `next_start_time` = '2019-08-01 13:54:00' where `id` = '1'
+2019-08-01 13:53:02 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:53:02 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:52:02'
+2019-08-01 13:53:02 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:53:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:03' or `first_start_time` is null)
+2019-08-01 13:53:05 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:05' or `first_start_time` is null)
+2019-08-01 13:53:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:07' or `first_start_time` is null)
+2019-08-01 13:53:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:09' or `first_start_time` is null)
+2019-08-01 13:53:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:11' or `first_start_time` is null)
+2019-08-01 13:53:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:12' or `first_start_time` is null)
+2019-08-01 13:53:15 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:15' or `first_start_time` is null)
+2019-08-01 13:53:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:18' or `first_start_time` is null)
+2019-08-01 13:53:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:19' or `first_start_time` is null)
+2019-08-01 13:53:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:21' or `first_start_time` is null)
+2019-08-01 13:53:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:24' or `first_start_time` is null)
+2019-08-01 13:53:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:26' or `first_start_time` is null)
+2019-08-01 13:53:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:28' or `first_start_time` is null)
+2019-08-01 13:53:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:30' or `first_start_time` is null)
+2019-08-01 13:53:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:32' or `first_start_time` is null)
+2019-08-01 13:53:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:33' or `first_start_time` is null)
+2019-08-01 13:53:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:35' or `first_start_time` is null)
+2019-08-01 13:53:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:37' or `first_start_time` is null)
+2019-08-01 13:53:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:39' or `first_start_time` is null)
+2019-08-01 13:53:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:41' or `first_start_time` is null)
+2019-08-01 13:53:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:43' or `first_start_time` is null)
+2019-08-01 13:53:45 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:45' or `first_start_time` is null)
+2019-08-01 13:53:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:46' or `first_start_time` is null)
+2019-08-01 13:53:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:48' or `first_start_time` is null)
+2019-08-01 13:53:50 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:50' or `first_start_time` is null)
+2019-08-01 13:53:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:53' or `first_start_time` is null)
+2019-08-01 13:53:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:55' or `first_start_time` is null)
+2019-08-01 13:53:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:53:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:57' or `first_start_time` is null)
+2019-08-01 13:53:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:53:59' or `first_start_time` is null)
+2019-08-01 13:54:01 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:01' or `first_start_time` is null)
+2019-08-01 13:54:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:54:02', `next_start_time` = '2019-08-01 13:55:00' where `id` = '1'
+2019-08-01 13:54:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:54:02', `next_start_time` = '2019-08-01 13:55:00' where `id` = '20'
+2019-08-01 13:54:02 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:54:02 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:53:02'
+2019-08-01 13:54:02 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:54:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:03' or `first_start_time` is null)
+2019-08-01 13:54:05 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:05' or `first_start_time` is null)
+2019-08-01 13:54:07 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:07' or `first_start_time` is null)
+2019-08-01 13:54:09 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:09' or `first_start_time` is null)
+2019-08-01 13:54:11 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:11' or `first_start_time` is null)
+2019-08-01 13:54:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:14' or `first_start_time` is null)
+2019-08-01 13:54:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:16' or `first_start_time` is null)
+2019-08-01 13:54:18 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:18' or `first_start_time` is null)
+2019-08-01 13:54:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:21' or `first_start_time` is null)
+2019-08-01 13:54:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:24' or `first_start_time` is null)
+2019-08-01 13:54:26 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:26' or `first_start_time` is null)
+2019-08-01 13:54:27 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:28' or `first_start_time` is null)
+2019-08-01 13:54:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:30' or `first_start_time` is null)
+2019-08-01 13:54:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:31' or `first_start_time` is null)
+2019-08-01 13:54:33 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:33' or `first_start_time` is null)
+2019-08-01 13:54:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:35' or `first_start_time` is null)
+2019-08-01 13:54:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:37' or `first_start_time` is null)
+2019-08-01 13:54:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:39' or `first_start_time` is null)
+2019-08-01 13:54:40 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:40' or `first_start_time` is null)
+2019-08-01 13:54:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:42' or `first_start_time` is null)
+2019-08-01 13:54:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:44' or `first_start_time` is null)
+2019-08-01 13:54:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:46' or `first_start_time` is null)
+2019-08-01 13:54:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:48' or `first_start_time` is null)
+2019-08-01 13:54:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:49' or `first_start_time` is null)
+2019-08-01 13:54:51 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:51' or `first_start_time` is null)
+2019-08-01 13:54:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:53' or `first_start_time` is null)
+2019-08-01 13:54:55 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:55' or `first_start_time` is null)
+2019-08-01 13:54:57 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:57' or `first_start_time` is null)
+2019-08-01 13:54:59 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:54:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:54:59' or `first_start_time` is null)
+2019-08-01 13:55:01 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:01' or `first_start_time` is null)
+2019-08-01 13:55:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:55:01', `next_start_time` = '2019-08-01 13:56:00' where `id` = '1'
+2019-08-01 13:55:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 13:55:01', `next_start_time` = '2019-08-01 13:56:00' where `id` = '20'
+2019-08-01 13:55:02 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:54:02'
+2019-08-01 13:55:02 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 13:55:02 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 13:55:03 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:03' or `first_start_time` is null)
+2019-08-01 13:55:04 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:04' or `first_start_time` is null)
+2019-08-01 13:55:06 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:06' or `first_start_time` is null)
+2019-08-01 13:55:08 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:08' or `first_start_time` is null)
+2019-08-01 13:55:10 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:10' or `first_start_time` is null)
+2019-08-01 13:55:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:12' or `first_start_time` is null)
+2019-08-01 13:55:14 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:14' or `first_start_time` is null)
+2019-08-01 13:55:16 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:16' or `first_start_time` is null)
+2019-08-01 13:55:17 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:17' or `first_start_time` is null)
+2019-08-01 13:55:19 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:19' or `first_start_time` is null)
+2019-08-01 13:55:21 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:21' or `first_start_time` is null)
+2019-08-01 13:55:24 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:24' or `first_start_time` is null)
+2019-08-01 13:55:28 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:28' or `first_start_time` is null)
+2019-08-01 13:55:30 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:30' or `first_start_time` is null)
+2019-08-01 13:55:31 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:31' or `first_start_time` is null)
+2019-08-01 13:55:34 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:34' or `first_start_time` is null)
+2019-08-01 13:55:35 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:35' or `first_start_time` is null)
+2019-08-01 13:55:37 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 13:55:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 13:55:37' or `first_start_time` is null)
+2019-08-01 14:40:39 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:39' or `first_start_time` is null)
+2019-08-01 14:40:39 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:40:39', `next_start_time` = '2019-08-01 14:41:00' where `id` = '1'
+2019-08-01 14:40:40 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:40:39', `next_start_time` = '2019-08-01 14:41:00' where `id` = '20'
+2019-08-01 14:40:40 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 14:40:40 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 13:55:02'
+2019-08-01 14:40:40 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 14:40:41 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:41' or `first_start_time` is null)
+2019-08-01 14:40:42 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:42' or `first_start_time` is null)
+2019-08-01 14:40:43 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:43' or `first_start_time` is null)
+2019-08-01 14:40:44 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:45' or `first_start_time` is null)
+2019-08-01 14:40:46 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:46' or `first_start_time` is null)
+2019-08-01 14:40:47 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:40:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:40:47' or `first_start_time` is null)
+2019-08-01 14:40:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:52:48 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:52:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:52:48' or `first_start_time` is null)
+2019-08-01 14:52:49 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:52:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:52:49' or `first_start_time` is null)
+2019-08-01 14:52:49 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:52:48', `next_start_time` = '2019-08-01 14:53:00' where `id` = '20'
+2019-08-01 14:52:49 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 14:52:50 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:52:48', `next_start_time` = '2019-08-01 14:53:00' where `id` = '1'
+2019-08-01 14:52:51 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:52:49', `next_start_time` = '2019-08-01 14:53:00' where `id` = '1'
+2019-08-01 14:52:51 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 14:40:40'
+2019-08-01 14:52:51 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 14:52:52 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 14:40:40'
+2019-08-01 14:52:52 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 14:52:52 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:52:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:52:52' or `first_start_time` is null)
+2019-08-01 14:52:53 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:52:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:52:53' or `first_start_time` is null)
+2019-08-01 14:53:34 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:53:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:53:35' or `first_start_time` is null)
+2019-08-01 14:53:35 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:53:35', `next_start_time` = '2019-08-01 14:54:00' where `id` = '1'
+2019-08-01 14:53:35 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 14:52:52'
+2019-08-01 14:53:36 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 14:53:36 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:53:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:53:36' or `first_start_time` is null)
+2019-08-01 14:53:37 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:53:35', `next_start_time` = '2019-08-01 14:54:00' where `id` = '20'
+2019-08-01 14:53:37 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 14:53:37 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:53:36', `next_start_time` = '2019-08-01 14:54:00' where `id` = '20'
+2019-08-01 14:53:37 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 14:53:38 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:53:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:53:38' or `first_start_time` is null)
+2019-08-01 14:54:12 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 14:54:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 14:54:12' or `first_start_time` is null)
+2019-08-01 14:54:12 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:54:12', `next_start_time` = '2019-08-01 14:55:00' where `id` = '1'
+2019-08-01 14:54:12 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 14:54:12', `next_start_time` = '2019-08-01 14:55:00' where `id` = '20'
+2019-08-01 14:54:12 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 14:54:12 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 14:53:35'
+2019-08-01 14:54:12 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-08-01 15:23:29 select * from `cron_tasks` where `status` = '1' lock in share mode
+2019-08-01 15:23:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-08-01 15:23:29' or `first_start_time` is null)
+2019-08-01 15:23:30 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 15:23:30', `next_start_time` = '2019-08-01 15:24:00' where `id` = '20'
+2019-08-01 15:23:30 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-08-01 15:23:30', `next_start_time` = '2019-08-01 15:24:00' where `id` = '1'
+2019-08-01 15:23:30 update `cron_tasks` set `status` = '0' where `id` = '20'
+2019-08-01 15:23:30 select `id`, `title`, `user_id` from `qa_question` where `created` > '2019-08-01 14:54:12'
+2019-08-01 15:23:30 update `cron_tasks` set `status` = '0' where `id` = '1'

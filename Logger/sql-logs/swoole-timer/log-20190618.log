@@ -1,0 +1,13 @@
+2019-06-18 12:07:41 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 0
+2019-06-18 12:07:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-18 12:07:41' or `first_start_time` is null)
+2019-06-18 12:07:42 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 0
+2019-06-18 12:07:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-18 12:07:42' or `first_start_time` is null)
+2019-06-18 12:07:44 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 0
+2019-06-18 12:07:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-18 12:07:44' or `first_start_time` is null)
+2019-06-18 12:07:45 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 0
+2019-06-18 12:07:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-18 12:07:45' or `first_start_time` is null)
+2019-06-18 12:09:26 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 0
+2019-06-18 12:09:27 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 1
+2019-06-18 12:09:27 select * from `cron_tasks` where `status` = '1' order by `cron_tasks`.`id` asc limit 1 offset 2
+2019-06-18 12:09:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-18 12:09:27' or `first_start_time` is null)
+2019-06-18 14:46:36 select * from `cron_tasks` where `status` = '1' lock in share mode

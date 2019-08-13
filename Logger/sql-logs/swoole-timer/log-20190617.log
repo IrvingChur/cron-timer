@@ -1,0 +1,1582 @@
+2019-06-17 14:50:52select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:52' or `first_start_time` is null)
+2019-06-17 14:50:52select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:50:52', `next_start_time` = '2019-06-17 14:51:00' where `id` = '1'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:50:52', `next_start_time` = '2019-06-17 14:51:00' where `id` = '3'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:50:52', `next_start_time` = '2019-06-17 14:51:00' where `id` = '2'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 14:50:52update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 14:50:53select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:53' or `first_start_time` is null)
+2019-06-17 14:50:53select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:54select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:54' or `first_start_time` is null)
+2019-06-17 14:50:54select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:55select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:55' or `first_start_time` is null)
+2019-06-17 14:50:55select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:56select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:56' or `first_start_time` is null)
+2019-06-17 14:50:56select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:57select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:57' or `first_start_time` is null)
+2019-06-17 14:50:57select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:58select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:58' or `first_start_time` is null)
+2019-06-17 14:50:58select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:50:59select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:50:59' or `first_start_time` is null)
+2019-06-17 14:50:59select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:00select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:00' or `first_start_time` is null)
+2019-06-17 14:51:00select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:51:00', `next_start_time` = '2019-06-17 14:52:00' where `id` = '3'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:51:00', `next_start_time` = '2019-06-17 14:52:00' where `id` = '1'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:51:00', `next_start_time` = '2019-06-17 14:52:00' where `id` = '2'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 14:51:00update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 14:51:01select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:01' or `first_start_time` is null)
+2019-06-17 14:51:01select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:02select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:02' or `first_start_time` is null)
+2019-06-17 14:51:02select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:03select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:03' or `first_start_time` is null)
+2019-06-17 14:51:03select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:04select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:04' or `first_start_time` is null)
+2019-06-17 14:51:04select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:05select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:05' or `first_start_time` is null)
+2019-06-17 14:51:05select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:06select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:06' or `first_start_time` is null)
+2019-06-17 14:51:06select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:07select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:07' or `first_start_time` is null)
+2019-06-17 14:51:07select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:08select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:08' or `first_start_time` is null)
+2019-06-17 14:51:08select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:09select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:09' or `first_start_time` is null)
+2019-06-17 14:51:09select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:10select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:10' or `first_start_time` is null)
+2019-06-17 14:51:10select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:11select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:11' or `first_start_time` is null)
+2019-06-17 14:51:11select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:12select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:12' or `first_start_time` is null)
+2019-06-17 14:51:12select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:13select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:13' or `first_start_time` is null)
+2019-06-17 14:51:13select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:14select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:14' or `first_start_time` is null)
+2019-06-17 14:51:14select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:15select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:15' or `first_start_time` is null)
+2019-06-17 14:51:15select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:16select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:16' or `first_start_time` is null)
+2019-06-17 14:51:16select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:17select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:17' or `first_start_time` is null)
+2019-06-17 14:51:17select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:18select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:18' or `first_start_time` is null)
+2019-06-17 14:51:18select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:19select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:19' or `first_start_time` is null)
+2019-06-17 14:51:19select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:20select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:20' or `first_start_time` is null)
+2019-06-17 14:51:20select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:21select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:21' or `first_start_time` is null)
+2019-06-17 14:51:21select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:22select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:22' or `first_start_time` is null)
+2019-06-17 14:51:22select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:23select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:23' or `first_start_time` is null)
+2019-06-17 14:51:23select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:24select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:24' or `first_start_time` is null)
+2019-06-17 14:51:24select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:25select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:25' or `first_start_time` is null)
+2019-06-17 14:51:25select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:26select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:26' or `first_start_time` is null)
+2019-06-17 14:51:26select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:27select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:27' or `first_start_time` is null)
+2019-06-17 14:51:27select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:28select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:28' or `first_start_time` is null)
+2019-06-17 14:51:28select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:29select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:29' or `first_start_time` is null)
+2019-06-17 14:51:29select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:30select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:30' or `first_start_time` is null)
+2019-06-17 14:51:30select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:31select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:31' or `first_start_time` is null)
+2019-06-17 14:51:31select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:32select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:32' or `first_start_time` is null)
+2019-06-17 14:51:32select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:33select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:33' or `first_start_time` is null)
+2019-06-17 14:51:33select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:34select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:34' or `first_start_time` is null)
+2019-06-17 14:51:34select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:35select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:35' or `first_start_time` is null)
+2019-06-17 14:51:35select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:36select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:36' or `first_start_time` is null)
+2019-06-17 14:51:36select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:37select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:37' or `first_start_time` is null)
+2019-06-17 14:51:37select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:38select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:38' or `first_start_time` is null)
+2019-06-17 14:51:38select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:39select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:39' or `first_start_time` is null)
+2019-06-17 14:51:39select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:40select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:40' or `first_start_time` is null)
+2019-06-17 14:51:40select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:41select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:41' or `first_start_time` is null)
+2019-06-17 14:51:41select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:43select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:43' or `first_start_time` is null)
+2019-06-17 14:51:43select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:44select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:44' or `first_start_time` is null)
+2019-06-17 14:51:44select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:45select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:45' or `first_start_time` is null)
+2019-06-17 14:51:45select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:46select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:46' or `first_start_time` is null)
+2019-06-17 14:51:46select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:47select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:47' or `first_start_time` is null)
+2019-06-17 14:51:47select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:48select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:48' or `first_start_time` is null)
+2019-06-17 14:51:48select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:49select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:49' or `first_start_time` is null)
+2019-06-17 14:51:49select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:50select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:50' or `first_start_time` is null)
+2019-06-17 14:51:50select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:51select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:51' or `first_start_time` is null)
+2019-06-17 14:51:51select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:52select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:52' or `first_start_time` is null)
+2019-06-17 14:51:52select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:53select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:53' or `first_start_time` is null)
+2019-06-17 14:51:53select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:54select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:54' or `first_start_time` is null)
+2019-06-17 14:51:54select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:55select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:55' or `first_start_time` is null)
+2019-06-17 14:51:55select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:56select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:56' or `first_start_time` is null)
+2019-06-17 14:51:56select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:57select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:57' or `first_start_time` is null)
+2019-06-17 14:51:57select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:58select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:58' or `first_start_time` is null)
+2019-06-17 14:51:58select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:51:59select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:51:59' or `first_start_time` is null)
+2019-06-17 14:51:59select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:00select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:00' or `first_start_time` is null)
+2019-06-17 14:52:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:52:00', `next_start_time` = '2019-06-17 14:53:00' where `id` = '3'
+2019-06-17 14:52:00select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:52:00', `next_start_time` = '2019-06-17 14:53:00' where `id` = '2'
+2019-06-17 14:52:00update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 14:52:00update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:52:00', `next_start_time` = '2019-06-17 14:53:00' where `id` = '1'
+2019-06-17 14:52:00update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 14:52:00update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 14:52:02select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:02' or `first_start_time` is null)
+2019-06-17 14:52:02select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:03select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:03' or `first_start_time` is null)
+2019-06-17 14:52:03select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:04select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:04' or `first_start_time` is null)
+2019-06-17 14:52:04select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:05select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:05' or `first_start_time` is null)
+2019-06-17 14:52:05select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:06select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:06' or `first_start_time` is null)
+2019-06-17 14:52:06select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:07select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:07' or `first_start_time` is null)
+2019-06-17 14:52:07select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:08select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:08' or `first_start_time` is null)
+2019-06-17 14:52:08select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:09select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:09' or `first_start_time` is null)
+2019-06-17 14:52:09select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:10select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:10' or `first_start_time` is null)
+2019-06-17 14:52:10select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:11select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:11' or `first_start_time` is null)
+2019-06-17 14:52:11select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:12select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:12' or `first_start_time` is null)
+2019-06-17 14:52:12select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:13select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:13' or `first_start_time` is null)
+2019-06-17 14:52:13select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:14select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:14' or `first_start_time` is null)
+2019-06-17 14:52:14select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:15select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:15' or `first_start_time` is null)
+2019-06-17 14:52:15select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:16select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:16' or `first_start_time` is null)
+2019-06-17 14:52:16select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:17select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:17' or `first_start_time` is null)
+2019-06-17 14:52:17select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:18select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:18' or `first_start_time` is null)
+2019-06-17 14:52:18select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:19select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:19' or `first_start_time` is null)
+2019-06-17 14:52:19select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:20select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:20' or `first_start_time` is null)
+2019-06-17 14:52:20select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:21select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:21' or `first_start_time` is null)
+2019-06-17 14:52:21select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:22select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:22' or `first_start_time` is null)
+2019-06-17 14:52:22select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:23select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:23' or `first_start_time` is null)
+2019-06-17 14:52:23select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:24select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:24' or `first_start_time` is null)
+2019-06-17 14:52:24select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:25select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:25' or `first_start_time` is null)
+2019-06-17 14:52:25select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:26select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:26' or `first_start_time` is null)
+2019-06-17 14:52:26select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:27select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:27' or `first_start_time` is null)
+2019-06-17 14:52:27select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:28select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:28' or `first_start_time` is null)
+2019-06-17 14:52:28select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:29select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:29' or `first_start_time` is null)
+2019-06-17 14:52:29select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:30select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:30' or `first_start_time` is null)
+2019-06-17 14:52:30select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:31select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:31' or `first_start_time` is null)
+2019-06-17 14:52:31select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:32select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:32' or `first_start_time` is null)
+2019-06-17 14:52:32select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:33select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:33' or `first_start_time` is null)
+2019-06-17 14:52:33select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:34select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:34' or `first_start_time` is null)
+2019-06-17 14:52:34select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:35select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:35' or `first_start_time` is null)
+2019-06-17 14:52:35select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:36select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:36' or `first_start_time` is null)
+2019-06-17 14:52:36select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:37select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:37' or `first_start_time` is null)
+2019-06-17 14:52:37select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:38select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:38' or `first_start_time` is null)
+2019-06-17 14:52:38select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:39select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:39' or `first_start_time` is null)
+2019-06-17 14:52:39select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:40select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:40' or `first_start_time` is null)
+2019-06-17 14:52:40select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:41select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:41' or `first_start_time` is null)
+2019-06-17 14:52:41select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:42select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:42' or `first_start_time` is null)
+2019-06-17 14:52:42select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:43select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:43' or `first_start_time` is null)
+2019-06-17 14:52:43select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:44select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:44' or `first_start_time` is null)
+2019-06-17 14:52:44select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:45select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:45' or `first_start_time` is null)
+2019-06-17 14:52:45select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:46select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:46' or `first_start_time` is null)
+2019-06-17 14:52:46select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:47select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:47' or `first_start_time` is null)
+2019-06-17 14:52:47select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:48select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:48' or `first_start_time` is null)
+2019-06-17 14:52:48select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:49select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:49' or `first_start_time` is null)
+2019-06-17 14:52:49select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:50select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:50' or `first_start_time` is null)
+2019-06-17 14:52:50select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:51select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:51' or `first_start_time` is null)
+2019-06-17 14:52:51select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:52select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:52' or `first_start_time` is null)
+2019-06-17 14:52:52select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:53select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:53' or `first_start_time` is null)
+2019-06-17 14:52:53select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:54select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:54' or `first_start_time` is null)
+2019-06-17 14:52:54select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:55select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:55' or `first_start_time` is null)
+2019-06-17 14:52:55select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:56select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:56' or `first_start_time` is null)
+2019-06-17 14:52:56select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:57select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:57' or `first_start_time` is null)
+2019-06-17 14:52:57select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:58select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:58' or `first_start_time` is null)
+2019-06-17 14:52:58select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:52:59select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:52:59' or `first_start_time` is null)
+2019-06-17 14:52:59select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:53:01select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:53:01' or `first_start_time` is null)
+2019-06-17 14:53:01select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:53:01', `next_start_time` = '2019-06-17 14:54:00' where `id` = '3'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:53:01', `next_start_time` = '2019-06-17 14:54:00' where `id` = '1'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:53:01', `next_start_time` = '2019-06-17 14:54:00' where `id` = '2'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 14:53:01update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 14:53:02select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:53:02' or `first_start_time` is null)
+2019-06-17 14:53:02select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:53:03select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:53:03' or `first_start_time` is null)
+2019-06-17 14:53:03select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:17&nbsp;select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:17' or `first_start_time` is null)
+2019-06-17 14:55:17&nbsp;select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:55:17', `next_start_time` = '2019-06-17 14:56:00' where `id` = '1'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:55:17', `next_start_time` = '2019-06-17 14:56:00' where `id` = '2'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 14:55:17', `next_start_time` = '2019-06-17 14:56:00' where `id` = '3'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 14:55:17&nbsp;update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 14:55:18&nbsp;select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:18' or `first_start_time` is null)
+2019-06-17 14:55:18&nbsp;select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:19&nbsp;select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:19' or `first_start_time` is null)
+2019-06-17 14:55:19&nbsp;select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:20&nbsp;select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:20' or `first_start_time` is null)
+2019-06-17 14:55:20&nbsp;select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:21&nbsp;select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:21' or `first_start_time` is null)
+2019-06-17 14:55:21&nbsp;select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:33' or `first_start_time` is null)
+2019-06-17 14:55:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:34' or `first_start_time` is null)
+2019-06-17 14:55:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:35' or `first_start_time` is null)
+2019-06-17 14:55:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:36' or `first_start_time` is null)
+2019-06-17 14:55:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:37' or `first_start_time` is null)
+2019-06-17 14:55:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:38' or `first_start_time` is null)
+2019-06-17 14:55:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:39' or `first_start_time` is null)
+2019-06-17 14:55:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:40' or `first_start_time` is null)
+2019-06-17 14:55:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:41' or `first_start_time` is null)
+2019-06-17 14:55:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:42' or `first_start_time` is null)
+2019-06-17 14:55:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:43' or `first_start_time` is null)
+2019-06-17 14:55:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:44' or `first_start_time` is null)
+2019-06-17 14:55:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:45' or `first_start_time` is null)
+2019-06-17 14:55:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:46' or `first_start_time` is null)
+2019-06-17 14:55:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:47' or `first_start_time` is null)
+2019-06-17 14:55:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 14:55:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 14:55:48' or `first_start_time` is null)
+2019-06-17 14:55:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 15:22:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 15:22:15' or `first_start_time` is null)
+2019-06-17 15:22:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 15:22:15', `next_start_time` = '2019-06-17 15:23:00' where `id` = '3'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 15:22:15', `next_start_time` = '2019-06-17 15:23:00' where `id` = '2'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 15:22:15', `next_start_time` = '2019-06-17 15:23:00' where `id` = '1'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 15:22:15 update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 19:36:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:00' or `first_start_time` is null)
+2019-06-17 19:36:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:36:00', `next_start_time` = '2019-06-17 19:37:00' where `id` = '1'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:36:00', `next_start_time` = '2019-06-17 19:37:00' where `id` = '3'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:36:00', `next_start_time` = '2019-06-17 19:37:00' where `id` = '2'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:36:00 update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 19:36:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:01' or `first_start_time` is null)
+2019-06-17 19:36:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:02' or `first_start_time` is null)
+2019-06-17 19:36:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:03' or `first_start_time` is null)
+2019-06-17 19:36:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:04' or `first_start_time` is null)
+2019-06-17 19:36:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:05' or `first_start_time` is null)
+2019-06-17 19:36:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:06' or `first_start_time` is null)
+2019-06-17 19:36:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:07' or `first_start_time` is null)
+2019-06-17 19:36:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:08' or `first_start_time` is null)
+2019-06-17 19:36:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:09' or `first_start_time` is null)
+2019-06-17 19:36:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:10' or `first_start_time` is null)
+2019-06-17 19:36:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:11' or `first_start_time` is null)
+2019-06-17 19:36:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:12' or `first_start_time` is null)
+2019-06-17 19:36:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:13' or `first_start_time` is null)
+2019-06-17 19:36:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:14' or `first_start_time` is null)
+2019-06-17 19:36:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:15' or `first_start_time` is null)
+2019-06-17 19:36:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:16' or `first_start_time` is null)
+2019-06-17 19:36:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:17' or `first_start_time` is null)
+2019-06-17 19:36:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:18' or `first_start_time` is null)
+2019-06-17 19:36:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:19' or `first_start_time` is null)
+2019-06-17 19:36:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:20' or `first_start_time` is null)
+2019-06-17 19:36:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:21' or `first_start_time` is null)
+2019-06-17 19:36:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:22' or `first_start_time` is null)
+2019-06-17 19:36:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:23' or `first_start_time` is null)
+2019-06-17 19:36:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:24' or `first_start_time` is null)
+2019-06-17 19:36:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:25' or `first_start_time` is null)
+2019-06-17 19:36:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:26' or `first_start_time` is null)
+2019-06-17 19:36:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:27' or `first_start_time` is null)
+2019-06-17 19:36:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:28' or `first_start_time` is null)
+2019-06-17 19:36:28 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:29' or `first_start_time` is null)
+2019-06-17 19:36:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:30' or `first_start_time` is null)
+2019-06-17 19:36:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:31' or `first_start_time` is null)
+2019-06-17 19:36:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:32' or `first_start_time` is null)
+2019-06-17 19:36:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:33' or `first_start_time` is null)
+2019-06-17 19:36:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:34' or `first_start_time` is null)
+2019-06-17 19:36:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:35' or `first_start_time` is null)
+2019-06-17 19:36:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:36' or `first_start_time` is null)
+2019-06-17 19:36:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:37' or `first_start_time` is null)
+2019-06-17 19:36:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:38' or `first_start_time` is null)
+2019-06-17 19:36:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:39' or `first_start_time` is null)
+2019-06-17 19:36:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:40' or `first_start_time` is null)
+2019-06-17 19:36:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:41' or `first_start_time` is null)
+2019-06-17 19:36:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:42' or `first_start_time` is null)
+2019-06-17 19:36:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:43' or `first_start_time` is null)
+2019-06-17 19:36:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:44' or `first_start_time` is null)
+2019-06-17 19:36:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:45' or `first_start_time` is null)
+2019-06-17 19:36:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:46' or `first_start_time` is null)
+2019-06-17 19:36:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:47' or `first_start_time` is null)
+2019-06-17 19:36:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:48' or `first_start_time` is null)
+2019-06-17 19:36:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:49' or `first_start_time` is null)
+2019-06-17 19:36:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:50' or `first_start_time` is null)
+2019-06-17 19:36:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:51' or `first_start_time` is null)
+2019-06-17 19:36:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:52' or `first_start_time` is null)
+2019-06-17 19:36:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:53' or `first_start_time` is null)
+2019-06-17 19:36:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:54' or `first_start_time` is null)
+2019-06-17 19:36:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:55' or `first_start_time` is null)
+2019-06-17 19:36:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:56' or `first_start_time` is null)
+2019-06-17 19:36:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:58' or `first_start_time` is null)
+2019-06-17 19:36:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:36:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:36:59' or `first_start_time` is null)
+2019-06-17 19:36:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:00' or `first_start_time` is null)
+2019-06-17 19:37:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:37:00', `next_start_time` = '2019-06-17 19:38:00' where `id` = '3'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:37:00', `next_start_time` = '2019-06-17 19:38:00' where `id` = '2'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:37:00', `next_start_time` = '2019-06-17 19:38:00' where `id` = '1'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '0' where `id` = '2'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '0' where `id` = '3'
+2019-06-17 19:37:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:37:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:01' or `first_start_time` is null)
+2019-06-17 19:37:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:02' or `first_start_time` is null)
+2019-06-17 19:37:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:03' or `first_start_time` is null)
+2019-06-17 19:37:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:04' or `first_start_time` is null)
+2019-06-17 19:37:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:05' or `first_start_time` is null)
+2019-06-17 19:37:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:06' or `first_start_time` is null)
+2019-06-17 19:37:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:07' or `first_start_time` is null)
+2019-06-17 19:37:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:08' or `first_start_time` is null)
+2019-06-17 19:37:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:09' or `first_start_time` is null)
+2019-06-17 19:37:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:10' or `first_start_time` is null)
+2019-06-17 19:37:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:37:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:37:11' or `first_start_time` is null)
+2019-06-17 19:37:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:28' or `first_start_time` is null)
+2019-06-17 19:45:28 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:30' or `first_start_time` is null)
+2019-06-17 19:45:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:32' or `first_start_time` is null)
+2019-06-17 19:45:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:33' or `first_start_time` is null)
+2019-06-17 19:45:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:35' or `first_start_time` is null)
+2019-06-17 19:45:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:36' or `first_start_time` is null)
+2019-06-17 19:45:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:38' or `first_start_time` is null)
+2019-06-17 19:45:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:39' or `first_start_time` is null)
+2019-06-17 19:45:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:41' or `first_start_time` is null)
+2019-06-17 19:45:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:42' or `first_start_time` is null)
+2019-06-17 19:45:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:44' or `first_start_time` is null)
+2019-06-17 19:45:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:46' or `first_start_time` is null)
+2019-06-17 19:45:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:47' or `first_start_time` is null)
+2019-06-17 19:45:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:49' or `first_start_time` is null)
+2019-06-17 19:45:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:50' or `first_start_time` is null)
+2019-06-17 19:45:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:52' or `first_start_time` is null)
+2019-06-17 19:45:53 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:45:53', `next_start_time` = '2019-06-17 19:46:00' where `id` = '1'
+2019-06-17 19:45:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:53 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:45:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:54' or `first_start_time` is null)
+2019-06-17 19:45:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:56' or `first_start_time` is null)
+2019-06-17 19:45:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:58' or `first_start_time` is null)
+2019-06-17 19:45:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:45:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:45:59' or `first_start_time` is null)
+2019-06-17 19:45:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:01' or `first_start_time` is null)
+2019-06-17 19:46:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:46:01', `next_start_time` = '2019-06-17 19:47:00' where `id` = '1'
+2019-06-17 19:46:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:46:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:03' or `first_start_time` is null)
+2019-06-17 19:46:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:04' or `first_start_time` is null)
+2019-06-17 19:46:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:06' or `first_start_time` is null)
+2019-06-17 19:46:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:07' or `first_start_time` is null)
+2019-06-17 19:46:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:09' or `first_start_time` is null)
+2019-06-17 19:46:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:10' or `first_start_time` is null)
+2019-06-17 19:46:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:12' or `first_start_time` is null)
+2019-06-17 19:46:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:13' or `first_start_time` is null)
+2019-06-17 19:46:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:15' or `first_start_time` is null)
+2019-06-17 19:46:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:16' or `first_start_time` is null)
+2019-06-17 19:46:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:18' or `first_start_time` is null)
+2019-06-17 19:46:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:19' or `first_start_time` is null)
+2019-06-17 19:46:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:21' or `first_start_time` is null)
+2019-06-17 19:46:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:22' or `first_start_time` is null)
+2019-06-17 19:46:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:24' or `first_start_time` is null)
+2019-06-17 19:46:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:26' or `first_start_time` is null)
+2019-06-17 19:46:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:27' or `first_start_time` is null)
+2019-06-17 19:46:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:29' or `first_start_time` is null)
+2019-06-17 19:46:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:30' or `first_start_time` is null)
+2019-06-17 19:46:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:32' or `first_start_time` is null)
+2019-06-17 19:46:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:33' or `first_start_time` is null)
+2019-06-17 19:46:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:35' or `first_start_time` is null)
+2019-06-17 19:46:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:36' or `first_start_time` is null)
+2019-06-17 19:46:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:38' or `first_start_time` is null)
+2019-06-17 19:46:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:39' or `first_start_time` is null)
+2019-06-17 19:46:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:41' or `first_start_time` is null)
+2019-06-17 19:46:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:42' or `first_start_time` is null)
+2019-06-17 19:46:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:44' or `first_start_time` is null)
+2019-06-17 19:46:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:46' or `first_start_time` is null)
+2019-06-17 19:46:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:47' or `first_start_time` is null)
+2019-06-17 19:46:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:48' or `first_start_time` is null)
+2019-06-17 19:46:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:50' or `first_start_time` is null)
+2019-06-17 19:46:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:52' or `first_start_time` is null)
+2019-06-17 19:46:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:53' or `first_start_time` is null)
+2019-06-17 19:46:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:55' or `first_start_time` is null)
+2019-06-17 19:46:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:56' or `first_start_time` is null)
+2019-06-17 19:46:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:58' or `first_start_time` is null)
+2019-06-17 19:46:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:46:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:46:59' or `first_start_time` is null)
+2019-06-17 19:47:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:01' or `first_start_time` is null)
+2019-06-17 19:47:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:47:02', `next_start_time` = '2019-06-17 19:48:00' where `id` = '1'
+2019-06-17 19:47:03 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:47:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:16' or `first_start_time` is null)
+2019-06-17 19:47:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:22' or `first_start_time` is null)
+2019-06-17 19:47:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:29' or `first_start_time` is null)
+2019-06-17 19:47:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:33' or `first_start_time` is null)
+2019-06-17 19:47:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:35' or `first_start_time` is null)
+2019-06-17 19:47:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:37' or `first_start_time` is null)
+2019-06-17 19:47:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:39' or `first_start_time` is null)
+2019-06-17 19:47:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:41' or `first_start_time` is null)
+2019-06-17 19:47:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:43' or `first_start_time` is null)
+2019-06-17 19:47:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:45' or `first_start_time` is null)
+2019-06-17 19:47:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:48' or `first_start_time` is null)
+2019-06-17 19:47:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:51' or `first_start_time` is null)
+2019-06-17 19:47:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:52' or `first_start_time` is null)
+2019-06-17 19:47:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:54' or `first_start_time` is null)
+2019-06-17 19:47:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:56' or `first_start_time` is null)
+2019-06-17 19:47:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:57' or `first_start_time` is null)
+2019-06-17 19:47:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:47:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:47:59' or `first_start_time` is null)
+2019-06-17 19:47:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:00' or `first_start_time` is null)
+2019-06-17 19:48:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:48:01', `next_start_time` = '2019-06-17 19:49:00' where `id` = '1'
+2019-06-17 19:48:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:48:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:02' or `first_start_time` is null)
+2019-06-17 19:48:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:04' or `first_start_time` is null)
+2019-06-17 19:48:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:05' or `first_start_time` is null)
+2019-06-17 19:48:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:07' or `first_start_time` is null)
+2019-06-17 19:48:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:08' or `first_start_time` is null)
+2019-06-17 19:48:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:10' or `first_start_time` is null)
+2019-06-17 19:48:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:11' or `first_start_time` is null)
+2019-06-17 19:48:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:13' or `first_start_time` is null)
+2019-06-17 19:48:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:14' or `first_start_time` is null)
+2019-06-17 19:48:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:16' or `first_start_time` is null)
+2019-06-17 19:48:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:18' or `first_start_time` is null)
+2019-06-17 19:48:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:19' or `first_start_time` is null)
+2019-06-17 19:48:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:21' or `first_start_time` is null)
+2019-06-17 19:48:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:22' or `first_start_time` is null)
+2019-06-17 19:48:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:24' or `first_start_time` is null)
+2019-06-17 19:48:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:25' or `first_start_time` is null)
+2019-06-17 19:48:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:27' or `first_start_time` is null)
+2019-06-17 19:48:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:28' or `first_start_time` is null)
+2019-06-17 19:48:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:30' or `first_start_time` is null)
+2019-06-17 19:48:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:31' or `first_start_time` is null)
+2019-06-17 19:48:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:33' or `first_start_time` is null)
+2019-06-17 19:48:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:35' or `first_start_time` is null)
+2019-06-17 19:48:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:36' or `first_start_time` is null)
+2019-06-17 19:48:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:38' or `first_start_time` is null)
+2019-06-17 19:48:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:39' or `first_start_time` is null)
+2019-06-17 19:48:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:41' or `first_start_time` is null)
+2019-06-17 19:48:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:42' or `first_start_time` is null)
+2019-06-17 19:48:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:44' or `first_start_time` is null)
+2019-06-17 19:48:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:45' or `first_start_time` is null)
+2019-06-17 19:48:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:47' or `first_start_time` is null)
+2019-06-17 19:48:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:48' or `first_start_time` is null)
+2019-06-17 19:48:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:50' or `first_start_time` is null)
+2019-06-17 19:48:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:51' or `first_start_time` is null)
+2019-06-17 19:48:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:53' or `first_start_time` is null)
+2019-06-17 19:48:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:55' or `first_start_time` is null)
+2019-06-17 19:48:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:56' or `first_start_time` is null)
+2019-06-17 19:48:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:58' or `first_start_time` is null)
+2019-06-17 19:48:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:48:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:48:59' or `first_start_time` is null)
+2019-06-17 19:48:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:01' or `first_start_time` is null)
+2019-06-17 19:49:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:49:01', `next_start_time` = '2019-06-17 19:50:00' where `id` = '1'
+2019-06-17 19:49:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:49:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:02' or `first_start_time` is null)
+2019-06-17 19:49:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:04' or `first_start_time` is null)
+2019-06-17 19:49:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:05' or `first_start_time` is null)
+2019-06-17 19:49:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:07' or `first_start_time` is null)
+2019-06-17 19:49:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:08' or `first_start_time` is null)
+2019-06-17 19:49:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:10' or `first_start_time` is null)
+2019-06-17 19:49:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:12' or `first_start_time` is null)
+2019-06-17 19:49:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:13' or `first_start_time` is null)
+2019-06-17 19:49:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:15' or `first_start_time` is null)
+2019-06-17 19:49:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:16' or `first_start_time` is null)
+2019-06-17 19:49:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:18' or `first_start_time` is null)
+2019-06-17 19:49:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:19' or `first_start_time` is null)
+2019-06-17 19:49:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:21' or `first_start_time` is null)
+2019-06-17 19:49:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:22' or `first_start_time` is null)
+2019-06-17 19:49:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:24' or `first_start_time` is null)
+2019-06-17 19:49:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:26' or `first_start_time` is null)
+2019-06-17 19:49:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:27' or `first_start_time` is null)
+2019-06-17 19:49:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:29' or `first_start_time` is null)
+2019-06-17 19:49:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:31' or `first_start_time` is null)
+2019-06-17 19:49:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:33' or `first_start_time` is null)
+2019-06-17 19:49:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:35' or `first_start_time` is null)
+2019-06-17 19:49:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:36' or `first_start_time` is null)
+2019-06-17 19:49:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:39' or `first_start_time` is null)
+2019-06-17 19:49:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:40' or `first_start_time` is null)
+2019-06-17 19:49:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:42' or `first_start_time` is null)
+2019-06-17 19:49:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:43' or `first_start_time` is null)
+2019-06-17 19:49:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:45' or `first_start_time` is null)
+2019-06-17 19:49:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:46' or `first_start_time` is null)
+2019-06-17 19:49:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:48' or `first_start_time` is null)
+2019-06-17 19:49:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:49' or `first_start_time` is null)
+2019-06-17 19:49:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:51' or `first_start_time` is null)
+2019-06-17 19:49:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:53' or `first_start_time` is null)
+2019-06-17 19:49:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:54' or `first_start_time` is null)
+2019-06-17 19:49:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:56' or `first_start_time` is null)
+2019-06-17 19:49:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:58' or `first_start_time` is null)
+2019-06-17 19:49:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:49:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:49:59' or `first_start_time` is null)
+2019-06-17 19:49:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:01' or `first_start_time` is null)
+2019-06-17 19:50:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:50:01', `next_start_time` = '2019-06-17 19:51:00' where `id` = '1'
+2019-06-17 19:50:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:50:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:03' or `first_start_time` is null)
+2019-06-17 19:50:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:04' or `first_start_time` is null)
+2019-06-17 19:50:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:06' or `first_start_time` is null)
+2019-06-17 19:50:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:07' or `first_start_time` is null)
+2019-06-17 19:50:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:09' or `first_start_time` is null)
+2019-06-17 19:50:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:10' or `first_start_time` is null)
+2019-06-17 19:50:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:12' or `first_start_time` is null)
+2019-06-17 19:50:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:13' or `first_start_time` is null)
+2019-06-17 19:50:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:15' or `first_start_time` is null)
+2019-06-17 19:50:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:16' or `first_start_time` is null)
+2019-06-17 19:50:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:18' or `first_start_time` is null)
+2019-06-17 19:50:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:19' or `first_start_time` is null)
+2019-06-17 19:50:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:21' or `first_start_time` is null)
+2019-06-17 19:50:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:22' or `first_start_time` is null)
+2019-06-17 19:50:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:24' or `first_start_time` is null)
+2019-06-17 19:50:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:25' or `first_start_time` is null)
+2019-06-17 19:50:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:27' or `first_start_time` is null)
+2019-06-17 19:50:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:28' or `first_start_time` is null)
+2019-06-17 19:50:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:30' or `first_start_time` is null)
+2019-06-17 19:50:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:31' or `first_start_time` is null)
+2019-06-17 19:50:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:33' or `first_start_time` is null)
+2019-06-17 19:50:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:35' or `first_start_time` is null)
+2019-06-17 19:50:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:36' or `first_start_time` is null)
+2019-06-17 19:50:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:38' or `first_start_time` is null)
+2019-06-17 19:50:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:39' or `first_start_time` is null)
+2019-06-17 19:50:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:41' or `first_start_time` is null)
+2019-06-17 19:50:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:42' or `first_start_time` is null)
+2019-06-17 19:50:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:44' or `first_start_time` is null)
+2019-06-17 19:50:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:45' or `first_start_time` is null)
+2019-06-17 19:50:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:47' or `first_start_time` is null)
+2019-06-17 19:50:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:49' or `first_start_time` is null)
+2019-06-17 19:50:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:50' or `first_start_time` is null)
+2019-06-17 19:50:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:52' or `first_start_time` is null)
+2019-06-17 19:50:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:53' or `first_start_time` is null)
+2019-06-17 19:50:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:55' or `first_start_time` is null)
+2019-06-17 19:50:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:56' or `first_start_time` is null)
+2019-06-17 19:50:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:50:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:50:58' or `first_start_time` is null)
+2019-06-17 19:50:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:00' or `first_start_time` is null)
+2019-06-17 19:51:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:51:00', `next_start_time` = '2019-06-17 19:52:00' where `id` = '1'
+2019-06-17 19:51:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:51:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:02' or `first_start_time` is null)
+2019-06-17 19:51:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:03' or `first_start_time` is null)
+2019-06-17 19:51:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:05' or `first_start_time` is null)
+2019-06-17 19:51:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:06' or `first_start_time` is null)
+2019-06-17 19:51:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:08' or `first_start_time` is null)
+2019-06-17 19:51:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:10' or `first_start_time` is null)
+2019-06-17 19:51:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:11' or `first_start_time` is null)
+2019-06-17 19:51:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:13' or `first_start_time` is null)
+2019-06-17 19:51:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:14' or `first_start_time` is null)
+2019-06-17 19:51:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:16' or `first_start_time` is null)
+2019-06-17 19:51:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:17' or `first_start_time` is null)
+2019-06-17 19:51:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:19' or `first_start_time` is null)
+2019-06-17 19:51:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:20' or `first_start_time` is null)
+2019-06-17 19:51:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:22' or `first_start_time` is null)
+2019-06-17 19:51:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:23' or `first_start_time` is null)
+2019-06-17 19:51:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:25' or `first_start_time` is null)
+2019-06-17 19:51:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:26' or `first_start_time` is null)
+2019-06-17 19:51:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:28' or `first_start_time` is null)
+2019-06-17 19:51:28 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:29' or `first_start_time` is null)
+2019-06-17 19:51:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:31' or `first_start_time` is null)
+2019-06-17 19:51:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:32' or `first_start_time` is null)
+2019-06-17 19:51:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:34' or `first_start_time` is null)
+2019-06-17 19:51:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:36' or `first_start_time` is null)
+2019-06-17 19:51:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:37' or `first_start_time` is null)
+2019-06-17 19:51:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:39' or `first_start_time` is null)
+2019-06-17 19:51:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:40' or `first_start_time` is null)
+2019-06-17 19:51:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:42' or `first_start_time` is null)
+2019-06-17 19:51:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:43' or `first_start_time` is null)
+2019-06-17 19:51:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:45' or `first_start_time` is null)
+2019-06-17 19:51:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:47' or `first_start_time` is null)
+2019-06-17 19:51:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:48' or `first_start_time` is null)
+2019-06-17 19:51:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:50' or `first_start_time` is null)
+2019-06-17 19:51:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:51' or `first_start_time` is null)
+2019-06-17 19:51:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:53' or `first_start_time` is null)
+2019-06-17 19:51:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:54' or `first_start_time` is null)
+2019-06-17 19:51:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:56' or `first_start_time` is null)
+2019-06-17 19:51:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:57' or `first_start_time` is null)
+2019-06-17 19:51:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:51:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:51:59' or `first_start_time` is null)
+2019-06-17 19:51:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:00' or `first_start_time` is null)
+2019-06-17 19:52:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:52:01', `next_start_time` = '2019-06-17 19:53:00' where `id` = '1'
+2019-06-17 19:52:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:52:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:03' or `first_start_time` is null)
+2019-06-17 19:52:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:04' or `first_start_time` is null)
+2019-06-17 19:52:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:06' or `first_start_time` is null)
+2019-06-17 19:52:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:07' or `first_start_time` is null)
+2019-06-17 19:52:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:09' or `first_start_time` is null)
+2019-06-17 19:52:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:10' or `first_start_time` is null)
+2019-06-17 19:52:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:12' or `first_start_time` is null)
+2019-06-17 19:52:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:13' or `first_start_time` is null)
+2019-06-17 19:52:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:15' or `first_start_time` is null)
+2019-06-17 19:52:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:16' or `first_start_time` is null)
+2019-06-17 19:52:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:19' or `first_start_time` is null)
+2019-06-17 19:52:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:20' or `first_start_time` is null)
+2019-06-17 19:52:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:22' or `first_start_time` is null)
+2019-06-17 19:52:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:24' or `first_start_time` is null)
+2019-06-17 19:52:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:25' or `first_start_time` is null)
+2019-06-17 19:52:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:27' or `first_start_time` is null)
+2019-06-17 19:52:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:28' or `first_start_time` is null)
+2019-06-17 19:52:28 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:30' or `first_start_time` is null)
+2019-06-17 19:52:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:31' or `first_start_time` is null)
+2019-06-17 19:52:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:33' or `first_start_time` is null)
+2019-06-17 19:52:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:34' or `first_start_time` is null)
+2019-06-17 19:52:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:36' or `first_start_time` is null)
+2019-06-17 19:52:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:37' or `first_start_time` is null)
+2019-06-17 19:52:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:39' or `first_start_time` is null)
+2019-06-17 19:52:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:41' or `first_start_time` is null)
+2019-06-17 19:52:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:42' or `first_start_time` is null)
+2019-06-17 19:52:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:44' or `first_start_time` is null)
+2019-06-17 19:52:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:45 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:45' or `first_start_time` is null)
+2019-06-17 19:52:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:47' or `first_start_time` is null)
+2019-06-17 19:52:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:48' or `first_start_time` is null)
+2019-06-17 19:52:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:50' or `first_start_time` is null)
+2019-06-17 19:52:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:51' or `first_start_time` is null)
+2019-06-17 19:52:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:53' or `first_start_time` is null)
+2019-06-17 19:52:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:54' or `first_start_time` is null)
+2019-06-17 19:52:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:56' or `first_start_time` is null)
+2019-06-17 19:52:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:57' or `first_start_time` is null)
+2019-06-17 19:52:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:52:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:52:59' or `first_start_time` is null)
+2019-06-17 19:52:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:00' or `first_start_time` is null)
+2019-06-17 19:53:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:53:01', `next_start_time` = '2019-06-17 19:54:00' where `id` = '1'
+2019-06-17 19:53:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:53:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:03' or `first_start_time` is null)
+2019-06-17 19:53:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:04' or `first_start_time` is null)
+2019-06-17 19:53:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:06' or `first_start_time` is null)
+2019-06-17 19:53:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:07' or `first_start_time` is null)
+2019-06-17 19:53:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:09' or `first_start_time` is null)
+2019-06-17 19:53:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:10' or `first_start_time` is null)
+2019-06-17 19:53:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:12' or `first_start_time` is null)
+2019-06-17 19:53:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:13' or `first_start_time` is null)
+2019-06-17 19:53:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:15' or `first_start_time` is null)
+2019-06-17 19:53:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:16' or `first_start_time` is null)
+2019-06-17 19:53:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:18' or `first_start_time` is null)
+2019-06-17 19:53:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:20' or `first_start_time` is null)
+2019-06-17 19:53:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:21' or `first_start_time` is null)
+2019-06-17 19:53:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:23' or `first_start_time` is null)
+2019-06-17 19:53:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:24' or `first_start_time` is null)
+2019-06-17 19:53:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:26' or `first_start_time` is null)
+2019-06-17 19:53:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:27' or `first_start_time` is null)
+2019-06-17 19:53:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:29' or `first_start_time` is null)
+2019-06-17 19:53:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:30' or `first_start_time` is null)
+2019-06-17 19:53:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:32' or `first_start_time` is null)
+2019-06-17 19:53:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:33' or `first_start_time` is null)
+2019-06-17 19:53:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:35' or `first_start_time` is null)
+2019-06-17 19:53:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:36' or `first_start_time` is null)
+2019-06-17 19:53:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:38' or `first_start_time` is null)
+2019-06-17 19:53:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:39' or `first_start_time` is null)
+2019-06-17 19:53:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:41' or `first_start_time` is null)
+2019-06-17 19:53:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:42' or `first_start_time` is null)
+2019-06-17 19:53:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:44' or `first_start_time` is null)
+2019-06-17 19:53:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:46' or `first_start_time` is null)
+2019-06-17 19:53:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:47' or `first_start_time` is null)
+2019-06-17 19:53:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:49' or `first_start_time` is null)
+2019-06-17 19:53:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:50' or `first_start_time` is null)
+2019-06-17 19:53:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:52' or `first_start_time` is null)
+2019-06-17 19:53:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:53' or `first_start_time` is null)
+2019-06-17 19:53:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:55' or `first_start_time` is null)
+2019-06-17 19:53:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:56' or `first_start_time` is null)
+2019-06-17 19:53:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:53:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:53:58' or `first_start_time` is null)
+2019-06-17 19:53:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:00' or `first_start_time` is null)
+2019-06-17 19:54:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:54:00', `next_start_time` = '2019-06-17 19:55:00' where `id` = '1'
+2019-06-17 19:54:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:54:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:02' or `first_start_time` is null)
+2019-06-17 19:54:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:03' or `first_start_time` is null)
+2019-06-17 19:54:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:05' or `first_start_time` is null)
+2019-06-17 19:54:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:06' or `first_start_time` is null)
+2019-06-17 19:54:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:08' or `first_start_time` is null)
+2019-06-17 19:54:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:10' or `first_start_time` is null)
+2019-06-17 19:54:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:11' or `first_start_time` is null)
+2019-06-17 19:54:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:13' or `first_start_time` is null)
+2019-06-17 19:54:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:14' or `first_start_time` is null)
+2019-06-17 19:54:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:16' or `first_start_time` is null)
+2019-06-17 19:54:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:17' or `first_start_time` is null)
+2019-06-17 19:54:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:19' or `first_start_time` is null)
+2019-06-17 19:54:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:21' or `first_start_time` is null)
+2019-06-17 19:54:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:22 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:22' or `first_start_time` is null)
+2019-06-17 19:54:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:24' or `first_start_time` is null)
+2019-06-17 19:54:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:25' or `first_start_time` is null)
+2019-06-17 19:54:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:27' or `first_start_time` is null)
+2019-06-17 19:54:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:29' or `first_start_time` is null)
+2019-06-17 19:54:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:30' or `first_start_time` is null)
+2019-06-17 19:54:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:32' or `first_start_time` is null)
+2019-06-17 19:54:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:33' or `first_start_time` is null)
+2019-06-17 19:54:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:35' or `first_start_time` is null)
+2019-06-17 19:54:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:36' or `first_start_time` is null)
+2019-06-17 19:54:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:38' or `first_start_time` is null)
+2019-06-17 19:54:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:39' or `first_start_time` is null)
+2019-06-17 19:54:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:41' or `first_start_time` is null)
+2019-06-17 19:54:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:42' or `first_start_time` is null)
+2019-06-17 19:54:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:44' or `first_start_time` is null)
+2019-06-17 19:54:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:46' or `first_start_time` is null)
+2019-06-17 19:54:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:47' or `first_start_time` is null)
+2019-06-17 19:54:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:49' or `first_start_time` is null)
+2019-06-17 19:54:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:50' or `first_start_time` is null)
+2019-06-17 19:54:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:52' or `first_start_time` is null)
+2019-06-17 19:54:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:53' or `first_start_time` is null)
+2019-06-17 19:54:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:55' or `first_start_time` is null)
+2019-06-17 19:54:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:56' or `first_start_time` is null)
+2019-06-17 19:54:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:54:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:54:58' or `first_start_time` is null)
+2019-06-17 19:54:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:00' or `first_start_time` is null)
+2019-06-17 19:55:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:55:00', `next_start_time` = '2019-06-17 19:56:00' where `id` = '1'
+2019-06-17 19:55:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:55:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:02' or `first_start_time` is null)
+2019-06-17 19:55:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:03' or `first_start_time` is null)
+2019-06-17 19:55:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:05' or `first_start_time` is null)
+2019-06-17 19:55:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:06' or `first_start_time` is null)
+2019-06-17 19:55:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:08' or `first_start_time` is null)
+2019-06-17 19:55:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:09' or `first_start_time` is null)
+2019-06-17 19:55:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:11' or `first_start_time` is null)
+2019-06-17 19:55:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:12' or `first_start_time` is null)
+2019-06-17 19:55:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:14' or `first_start_time` is null)
+2019-06-17 19:55:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:15' or `first_start_time` is null)
+2019-06-17 19:55:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:17' or `first_start_time` is null)
+2019-06-17 19:55:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:18' or `first_start_time` is null)
+2019-06-17 19:55:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:20' or `first_start_time` is null)
+2019-06-17 19:55:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:21' or `first_start_time` is null)
+2019-06-17 19:55:22 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:23' or `first_start_time` is null)
+2019-06-17 19:55:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:25' or `first_start_time` is null)
+2019-06-17 19:55:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:26' or `first_start_time` is null)
+2019-06-17 19:55:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:28 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:28' or `first_start_time` is null)
+2019-06-17 19:55:28 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:29' or `first_start_time` is null)
+2019-06-17 19:55:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:31' or `first_start_time` is null)
+2019-06-17 19:55:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:32' or `first_start_time` is null)
+2019-06-17 19:55:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:34' or `first_start_time` is null)
+2019-06-17 19:55:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:35' or `first_start_time` is null)
+2019-06-17 19:55:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:37' or `first_start_time` is null)
+2019-06-17 19:55:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:39 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:39' or `first_start_time` is null)
+2019-06-17 19:55:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:40' or `first_start_time` is null)
+2019-06-17 19:55:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:42' or `first_start_time` is null)
+2019-06-17 19:55:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:55:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:55:43' or `first_start_time` is null)
+2019-06-17 19:55:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:30' or `first_start_time` is null)
+2019-06-17 19:57:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:31 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:57:31', `next_start_time` = '2019-06-17 19:58:00' where `id` = '1'
+2019-06-17 19:57:31 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:57:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:32' or `first_start_time` is null)
+2019-06-17 19:57:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:34' or `first_start_time` is null)
+2019-06-17 19:57:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:35' or `first_start_time` is null)
+2019-06-17 19:57:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:37' or `first_start_time` is null)
+2019-06-17 19:57:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:38' or `first_start_time` is null)
+2019-06-17 19:57:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:40' or `first_start_time` is null)
+2019-06-17 19:57:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:41' or `first_start_time` is null)
+2019-06-17 19:57:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:43' or `first_start_time` is null)
+2019-06-17 19:57:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:44' or `first_start_time` is null)
+2019-06-17 19:57:45 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:46' or `first_start_time` is null)
+2019-06-17 19:57:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:48' or `first_start_time` is null)
+2019-06-17 19:57:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:49' or `first_start_time` is null)
+2019-06-17 19:57:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:51' or `first_start_time` is null)
+2019-06-17 19:57:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:52' or `first_start_time` is null)
+2019-06-17 19:57:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:54 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:54' or `first_start_time` is null)
+2019-06-17 19:57:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:55' or `first_start_time` is null)
+2019-06-17 19:57:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:57' or `first_start_time` is null)
+2019-06-17 19:57:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:57:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:57:58' or `first_start_time` is null)
+2019-06-17 19:57:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:00' or `first_start_time` is null)
+2019-06-17 19:58:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:58:00', `next_start_time` = '2019-06-17 19:59:00' where `id` = '1'
+2019-06-17 19:58:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:58:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:02' or `first_start_time` is null)
+2019-06-17 19:58:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:04' or `first_start_time` is null)
+2019-06-17 19:58:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:06' or `first_start_time` is null)
+2019-06-17 19:58:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:07' or `first_start_time` is null)
+2019-06-17 19:58:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:09' or `first_start_time` is null)
+2019-06-17 19:58:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:10' or `first_start_time` is null)
+2019-06-17 19:58:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:12' or `first_start_time` is null)
+2019-06-17 19:58:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:13' or `first_start_time` is null)
+2019-06-17 19:58:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:15' or `first_start_time` is null)
+2019-06-17 19:58:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:16' or `first_start_time` is null)
+2019-06-17 19:58:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:18' or `first_start_time` is null)
+2019-06-17 19:58:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:19' or `first_start_time` is null)
+2019-06-17 19:58:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:21' or `first_start_time` is null)
+2019-06-17 19:58:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:22' or `first_start_time` is null)
+2019-06-17 19:58:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:24' or `first_start_time` is null)
+2019-06-17 19:58:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:26' or `first_start_time` is null)
+2019-06-17 19:58:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:27' or `first_start_time` is null)
+2019-06-17 19:58:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:29' or `first_start_time` is null)
+2019-06-17 19:58:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:30' or `first_start_time` is null)
+2019-06-17 19:58:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:32' or `first_start_time` is null)
+2019-06-17 19:58:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:33' or `first_start_time` is null)
+2019-06-17 19:58:33 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:35' or `first_start_time` is null)
+2019-06-17 19:58:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:36' or `first_start_time` is null)
+2019-06-17 19:58:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:38' or `first_start_time` is null)
+2019-06-17 19:58:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:40' or `first_start_time` is null)
+2019-06-17 19:58:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:41' or `first_start_time` is null)
+2019-06-17 19:58:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:43' or `first_start_time` is null)
+2019-06-17 19:58:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:44' or `first_start_time` is null)
+2019-06-17 19:58:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:46' or `first_start_time` is null)
+2019-06-17 19:58:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:47' or `first_start_time` is null)
+2019-06-17 19:58:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:49' or `first_start_time` is null)
+2019-06-17 19:58:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:50' or `first_start_time` is null)
+2019-06-17 19:58:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:52' or `first_start_time` is null)
+2019-06-17 19:58:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:53' or `first_start_time` is null)
+2019-06-17 19:58:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:55 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:55' or `first_start_time` is null)
+2019-06-17 19:58:55 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:56 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:56' or `first_start_time` is null)
+2019-06-17 19:58:56 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:58' or `first_start_time` is null)
+2019-06-17 19:58:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:58:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:58:59' or `first_start_time` is null)
+2019-06-17 19:58:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:01' or `first_start_time` is null)
+2019-06-17 19:59:01 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 19:59:01', `next_start_time` = '2019-06-17 20:00:00' where `id` = '1'
+2019-06-17 19:59:01 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:01 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 19:59:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:03' or `first_start_time` is null)
+2019-06-17 19:59:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:05 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:04' or `first_start_time` is null)
+2019-06-17 19:59:05 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:06' or `first_start_time` is null)
+2019-06-17 19:59:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:08' or `first_start_time` is null)
+2019-06-17 19:59:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:09' or `first_start_time` is null)
+2019-06-17 19:59:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:11' or `first_start_time` is null)
+2019-06-17 19:59:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:12' or `first_start_time` is null)
+2019-06-17 19:59:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:14' or `first_start_time` is null)
+2019-06-17 19:59:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:15' or `first_start_time` is null)
+2019-06-17 19:59:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:17' or `first_start_time` is null)
+2019-06-17 19:59:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:18 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:18' or `first_start_time` is null)
+2019-06-17 19:59:18 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:20' or `first_start_time` is null)
+2019-06-17 19:59:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:21 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:21' or `first_start_time` is null)
+2019-06-17 19:59:21 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:23' or `first_start_time` is null)
+2019-06-17 19:59:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:24 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:24' or `first_start_time` is null)
+2019-06-17 19:59:24 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:26' or `first_start_time` is null)
+2019-06-17 19:59:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:27 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:27' or `first_start_time` is null)
+2019-06-17 19:59:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:29 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:29' or `first_start_time` is null)
+2019-06-17 19:59:29 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:30' or `first_start_time` is null)
+2019-06-17 19:59:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:32 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:32' or `first_start_time` is null)
+2019-06-17 19:59:32 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:33 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:33' or `first_start_time` is null)
+2019-06-17 19:59:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:35 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:35' or `first_start_time` is null)
+2019-06-17 19:59:35 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:36' or `first_start_time` is null)
+2019-06-17 19:59:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:38' or `first_start_time` is null)
+2019-06-17 19:59:38 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:40' or `first_start_time` is null)
+2019-06-17 19:59:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:41 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:41' or `first_start_time` is null)
+2019-06-17 19:59:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:43 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:43' or `first_start_time` is null)
+2019-06-17 19:59:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:44' or `first_start_time` is null)
+2019-06-17 19:59:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:46' or `first_start_time` is null)
+2019-06-17 19:59:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:47' or `first_start_time` is null)
+2019-06-17 19:59:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:49 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:49' or `first_start_time` is null)
+2019-06-17 19:59:49 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:50' or `first_start_time` is null)
+2019-06-17 19:59:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:52 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:52' or `first_start_time` is null)
+2019-06-17 19:59:52 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:53' or `first_start_time` is null)
+2019-06-17 19:59:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 19:59:58 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 19:59:58' or `first_start_time` is null)
+2019-06-17 19:59:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:00:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:00:08' or `first_start_time` is null)
+2019-06-17 20:00:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:00:09 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:00:09', `next_start_time` = '2019-06-17 20:01:00' where `id` = '1'
+2019-06-17 20:00:09 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 20:00:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:00:19' or `first_start_time` is null)
+2019-06-17 20:00:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:00:30 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:00:30' or `first_start_time` is null)
+2019-06-17 20:00:30 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:00:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:00:40' or `first_start_time` is null)
+2019-06-17 20:00:40 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:00:51 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:00:51' or `first_start_time` is null)
+2019-06-17 20:00:51 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:01:01 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:01:01' or `first_start_time` is null)
+2019-06-17 20:01:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:01:02 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:01:02', `next_start_time` = '2019-06-17 20:02:00' where `id` = '1'
+2019-06-17 20:01:02 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 20:01:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:01:12' or `first_start_time` is null)
+2019-06-17 20:01:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:01:23 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:01:23' or `first_start_time` is null)
+2019-06-17 20:01:23 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:01:34 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:01:34' or `first_start_time` is null)
+2019-06-17 20:01:34 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:01:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:01:47' or `first_start_time` is null)
+2019-06-17 20:01:47 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:02:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:02:14' or `first_start_time` is null)
+2019-06-17 20:02:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:02:15 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:02:15', `next_start_time` = '2019-06-17 20:03:00' where `id` = '1'
+2019-06-17 20:03:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:03:10' or `first_start_time` is null)
+2019-06-17 20:03:10 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:03:10', `next_start_time` = '2019-06-17 20:04:00' where `id` = '1'
+2019-06-17 20:03:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:04:26 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:04:26' or `first_start_time` is null)
+2019-06-17 20:04:27 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:04:27 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:04:27', `next_start_time` = '2019-06-17 20:05:00' where `id` = '1'
+2019-06-17 20:04:37 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:04:37' or `first_start_time` is null)
+2019-06-17 20:04:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:04:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:04:48' or `first_start_time` is null)
+2019-06-17 20:04:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:04:59 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:04:59' or `first_start_time` is null)
+2019-06-17 20:04:59 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:05:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:05:10' or `first_start_time` is null)
+2019-06-17 20:05:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:05:20 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:05:20' or `first_start_time` is null)
+2019-06-17 20:05:20 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:05:31 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:05:31' or `first_start_time` is null)
+2019-06-17 20:05:31 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:05:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:05:42' or `first_start_time` is null)
+2019-06-17 20:05:42 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:05:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:05:52' or `first_start_time` is null)
+2019-06-17 20:05:53 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:03 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:03' or `first_start_time` is null)
+2019-06-17 20:06:03 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:14' or `first_start_time` is null)
+2019-06-17 20:06:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:25' or `first_start_time` is null)
+2019-06-17 20:06:25 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:36' or `first_start_time` is null)
+2019-06-17 20:06:36 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:46' or `first_start_time` is null)
+2019-06-17 20:06:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:06:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:06:57' or `first_start_time` is null)
+2019-06-17 20:06:57 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:07:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:07:07' or `first_start_time` is null)
+2019-06-17 20:07:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:07:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:07:14' or `first_start_time` is null)
+2019-06-17 20:07:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:07:25 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:07:25' or `first_start_time` is null)
+2019-06-17 20:07:26 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:07:36 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:07:36' or `first_start_time` is null)
+2019-06-17 20:07:37 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:07:37', `next_start_time` = '2019-06-17 20:08:00' where `id` = '1'
+2019-06-17 20:07:37 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:07:47 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:07:47' or `first_start_time` is null)
+2019-06-17 20:07:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:06' or `first_start_time` is null)
+2019-06-17 20:08:07 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:07 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:08:07', `next_start_time` = '2019-06-17 20:09:00' where `id` = '1'
+2019-06-17 20:08:08 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:08' or `first_start_time` is null)
+2019-06-17 20:08:09 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:10 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:10' or `first_start_time` is null)
+2019-06-17 20:08:11 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:12 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:12' or `first_start_time` is null)
+2019-06-17 20:08:13 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:14 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:14' or `first_start_time` is null)
+2019-06-17 20:08:15 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:16 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:16' or `first_start_time` is null)
+2019-06-17 20:08:17 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:19 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:19' or `first_start_time` is null)
+2019-06-17 20:08:19 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:38 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:38' or `first_start_time` is null)
+2019-06-17 20:08:39 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:39 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:08:39', `next_start_time` = '2019-06-17 20:09:00' where `id` = '1'
+2019-06-17 20:08:39 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 20:08:40 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:40' or `first_start_time` is null)
+2019-06-17 20:08:41 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:42 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:42' or `first_start_time` is null)
+2019-06-17 20:08:43 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:44 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:44' or `first_start_time` is null)
+2019-06-17 20:08:44 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:46 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:46' or `first_start_time` is null)
+2019-06-17 20:08:46 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:48 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:48' or `first_start_time` is null)
+2019-06-17 20:08:48 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:50 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:50' or `first_start_time` is null)
+2019-06-17 20:08:50 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:53 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:53' or `first_start_time` is null)
+2019-06-17 20:08:54 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:08:57 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:08:57' or `first_start_time` is null)
+2019-06-17 20:08:58 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:00 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:00' or `first_start_time` is null)
+2019-06-17 20:09:00 update `cron_tasks` set `status` = '1', `last_start_time` = '2019-06-17 20:09:00', `next_start_time` = '2019-06-17 20:10:00' where `id` = '1'
+2019-06-17 20:09:00 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:00 update `cron_tasks` set `status` = '0' where `id` = '1'
+2019-06-17 20:09:02 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:02' or `first_start_time` is null)
+2019-06-17 20:09:02 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:04 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:04' or `first_start_time` is null)
+2019-06-17 20:09:04 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:06 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:05' or `first_start_time` is null)
+2019-06-17 20:09:06 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:07 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:07' or `first_start_time` is null)
+2019-06-17 20:09:08 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:09 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:09' or `first_start_time` is null)
+2019-06-17 20:09:10 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:11 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:11' or `first_start_time` is null)
+2019-06-17 20:09:12 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:13 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:13' or `first_start_time` is null)
+2019-06-17 20:09:14 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:15 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:15' or `first_start_time` is null)
+2019-06-17 20:09:16 select * from `cron_tasks` where `status` = '1'
+2019-06-17 20:09:17 select * from `cron_tasks` where `status` = '0' and (`next_start_time` <= '2019-06-17 20:09:17' or `first_start_time` is null)
