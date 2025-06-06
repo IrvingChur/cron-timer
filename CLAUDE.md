@@ -69,3 +69,41 @@ php Main.php stop
 - `predis/predis`: Redis 缓存
 - `guzzlehttp/guzzle`: HTTP 客户端
 - `nesbot/carbon`: 时间处理
+- `aliyuncs/oss-sdk-php`: 阿里云 OSS
+- `james-heinrich/getid3`: 媒体文件信息
+
+## 测试和调试
+
+**注意**: 当前项目没有配置自动化测试框架。
+
+### 调试单个任务
+```bash
+# 调试指定任务类
+php Main.php debug "Application\\QaUserLevelCalculate\\QaUserLevelCalculate" '{"test": true}'
+
+# 调试带参数的任务
+php Main.php debug "Application\\YourModule\\YourTask" '{"key": "value"}'
+```
+
+### 进程状态检查
+```bash
+# 查看系统进程
+ps aux | grep cron_task_worker
+
+# 检查特定环境的进程
+ps aux | grep "{env}_cron_task_worker"
+```
+
+## 系统配置
+
+### 环境相关
+- 进程名格式: `{env}_cron_task_worker_{task_id}`
+- 配置通过 `ConfigureLibrary::getConfigure()` 动态获取
+- 数据库表名等配置可动态调整
+
+### 任务配置 (kernel 表)
+任务通过数据库 `kernel` 表进行配置管理：
+- `class`: 任务类的完整命名空间路径
+- `cron`: Cron 表达式（支持秒级调度，格式: 秒 分 时 日 月 周）
+- `param`: JSON 格式的任务参数
+- `status`: 任务状态（0=禁用，1=启用）

@@ -17,6 +17,7 @@
 - Swoole 扩展
 - MySQL/MariaDB
 - Redis (可选)
+- Composer (依赖管理)
 
 ## 安装
 
@@ -59,8 +60,11 @@ php Main.php stop
 ### 调试单个任务
 
 ```bash
-# 运行指定任务
-php Main.php debug Application\\QaUserLevelCalculate\\QaUserLevelCalculate '{"test": true}'
+# 运行示例任务
+php Main.php debug "Application\\Example\\ExampleTask" '{"test": true}'
+
+# 运行指定任务（如果有其他任务模块）
+php Main.php debug "Application\\YourModule\\YourTask" '{"param": "value"}'
 ```
 
 ## 架构概览
@@ -68,17 +72,20 @@ php Main.php debug Application\\QaUserLevelCalculate\\QaUserLevelCalculate '{"te
 ```
 cron-timer/
 ├── Application/          # 业务任务实现
-│   ├── QaUserLevelCalculate/
-│   ├── ArticleMonitoring/
-│   └── ...
+│   ├── ApplicationInterface.php  # 任务接口
+│   └── Example/         # 示例任务
+│       └── ExampleTask.php
 ├── Kernel/              # 核心系统
 │   ├── Process/         # 进程管理
 │   ├── Task/           # 任务调度
-│   └── Register/       # 组件注册
+│   ├── Register/       # 组件注册
+│   └── KernelMain.php  # 主调度器
 ├── Dao/                # 数据访问层
 ├── Model/              # 数据模型
 ├── Configure/          # 系统配置
 ├── Library/            # 工具库
+├── composer.json       # 依赖配置
+├── CLAUDE.md          # 开发指南
 └── Main.php           # 入口文件
 ```
 
@@ -122,15 +129,19 @@ interface ApplicationInterface {
    
    class YourTask implements ApplicationInterface
    {
-       public function execute(string $param)
+       public function execute(string $param): void
        {
-           // 任务实现逻辑
+           // 解析参数
            $data = json_decode($param, true);
            
-           // 业务处理
+           // 任务实现逻辑
+           echo "任务开始执行...\n";
+           echo "参数: {$param}\n";
+           
+           // 业务处理逻辑
            // ...
            
-           return true;
+           echo "任务执行完成\n";
        }
    }
    ```
@@ -141,6 +152,12 @@ interface ApplicationInterface {
    INSERT INTO kernel (class, cron, param, status) VALUES 
    ('Application\\YourModule\\YourTask', '0 */5 * * * *', '{"key": "value"}', 1);
    ```
+   
+   字段说明：
+   - `class`: 任务类的完整命名空间路径
+   - `cron`: Cron 表达式（格式: 秒 分 时 日 月 周）
+   - `param`: JSON 格式的任务参数
+   - `status`: 任务状态（0=禁用，1=启用）
 
 ### 任务开发最佳实践
 
@@ -243,22 +260,25 @@ interface ApplicationInterface {
 
 ### 调试模式
 ```bash
-# 启用详细日志
-php Main.php listen --verbose
+# 前台运行查看详细输出
+php Main.php listen
 
 # 调试单个任务
-php Main.php debug ClassName '{"param": "value"}'
+php Main.php debug "Application\\Example\\ExampleTask" '{"param": "value"}'
+
+# 查看进程状态
+ps aux | grep cron_task_worker
 ```
 
 ## 依赖包
 
-- `mtdowling/cron-expression` - Cron 表达式解析
-- `illuminate/database` - Eloquent ORM
-- `nesbot/carbon` - 时间处理
-- `guzzlehttp/guzzle` - HTTP 客户端
-- `predis/predis` - Redis 客户端
-- `aliyuncs/oss-sdk-php` - 阿里云 OSS
-- `james-heinrich/getid3` - 媒体文件信息
+- `mtdowling/cron-expression` ^1.2 - Cron 表达式解析
+- `illuminate/database` ^5.8 - Eloquent ORM
+- `nesbot/carbon` ^2.19 - 时间处理
+- `guzzlehttp/guzzle` ^6.3 - HTTP 客户端
+- `predis/predis` ^1.1 - Redis 客户端
+- `aliyuncs/oss-sdk-php` ^2.3 - 阿里云 OSS
+- `james-heinrich/getid3` ^1.9 - 媒体文件信息
 
 ## 贡献指南
 
